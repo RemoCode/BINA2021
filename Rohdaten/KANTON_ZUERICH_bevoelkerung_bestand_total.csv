@@ -1,0 +1,1783 @@
+Jahr;GEMEINDE_BFS_NR;GEMEINDE;Bezirk NR;BEZIRK;REGION_CODE;REGION;ANZAHL_PERSONEN_TOTAL
+01.01.2013;43;Volken;2;Andelfingen;110;Weinland;305
+01.01.2011;43;Volken;2;Andelfingen;110;Weinland;307
+01.01.2010;43;Volken;2;Andelfingen;110;Weinland;310
+01.01.2012;43;Volken;2;Andelfingen;110;Weinland;311
+01.01.2016;43;Volken;2;Andelfingen;110;Weinland;336
+01.01.2017;43;Volken;2;Andelfingen;110;Weinland;337
+01.01.2014;43;Volken;2;Andelfingen;110;Weinland;339
+01.01.2015;43;Volken;2;Andelfingen;110;Weinland;339
+01.01.2018;43;Volken;2;Andelfingen;110;Weinland;362
+01.01.2019;43;Volken;2;Andelfingen;110;Weinland;380
+01.01.2020;43;Volken;2;Andelfingen;110;Weinland;383
+01.01.2020;41;Truttikon;2;Andelfingen;110;Weinland;450
+01.01.2013;41;Truttikon;2;Andelfingen;110;Weinland;451
+01.01.2010;32;Humlikon;2;Andelfingen;110;Weinland;456
+01.01.2020;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;461
+01.01.2014;41;Truttikon;2;Andelfingen;110;Weinland;463
+01.01.2019;41;Truttikon;2;Andelfingen;110;Weinland;464
+01.01.2015;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;465
+01.01.2019;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;465
+01.01.2012;41;Truttikon;2;Andelfingen;110;Weinland;465
+01.01.2016;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;469
+01.01.2011;41;Truttikon;2;Andelfingen;110;Weinland;469
+01.01.2016;41;Truttikon;2;Andelfingen;110;Weinland;469
+01.01.2017;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;473
+01.01.2015;41;Truttikon;2;Andelfingen;110;Weinland;473
+01.01.2010;41;Truttikon;2;Andelfingen;110;Weinland;475
+01.01.2011;32;Humlikon;2;Andelfingen;110;Weinland;477
+01.01.2017;41;Truttikon;2;Andelfingen;110;Weinland;477
+01.01.2018;41;Truttikon;2;Andelfingen;110;Weinland;478
+01.01.2013;32;Humlikon;2;Andelfingen;110;Weinland;482
+01.01.2012;32;Humlikon;2;Andelfingen;110;Weinland;484
+01.01.2020;32;Humlikon;2;Andelfingen;110;Weinland;484
+01.01.2019;32;Humlikon;2;Andelfingen;110;Weinland;485
+01.01.2013;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;485
+01.01.2017;32;Humlikon;2;Andelfingen;110;Weinland;486
+01.01.2018;32;Humlikon;2;Andelfingen;110;Weinland;486
+01.01.2018;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;486
+01.01.2010;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;488
+01.01.2014;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;489
+01.01.2012;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;490
+01.01.2016;32;Humlikon;2;Andelfingen;110;Weinland;495
+01.01.2014;32;Humlikon;2;Andelfingen;110;Weinland;498
+01.01.2011;95;Regensberg;4;Dielsdorf;111;Zürcher Unterland;498
+01.01.2015;32;Humlikon;2;Andelfingen;110;Weinland;504
+01.01.2011;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;547
+01.01.2012;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;547
+01.01.2018;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;554
+01.01.2010;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;559
+01.01.2016;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;559
+01.01.2019;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;560
+01.01.2012;21;Adlikon;2;Andelfingen;110;Weinland;562
+01.01.2017;23;Berg a.I.;2;Andelfingen;110;Weinland;562
+01.01.2020;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;564
+01.01.2011;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;567
+01.01.2015;23;Berg a.I.;2;Andelfingen;110;Weinland;567
+01.01.2016;23;Berg a.I.;2;Andelfingen;110;Weinland;567
+01.01.2014;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;568
+01.01.2018;23;Berg a.I.;2;Andelfingen;110;Weinland;569
+01.01.2013;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;572
+01.01.2013;21;Adlikon;2;Andelfingen;110;Weinland;573
+01.01.2010;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;573
+01.01.2015;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;573
+01.01.2012;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;574
+01.01.2017;70;Wasterkingen;3;Bülach;111;Zürcher Unterland;574
+01.01.2013;23;Berg a.I.;2;Andelfingen;110;Weinland;576
+01.01.2010;21;Adlikon;2;Andelfingen;110;Weinland;577
+01.01.2019;23;Berg a.I.;2;Andelfingen;110;Weinland;578
+01.01.2011;21;Adlikon;2;Andelfingen;110;Weinland;579
+01.01.2014;23;Berg a.I.;2;Andelfingen;110;Weinland;579
+01.01.2018;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;580
+01.01.2015;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;585
+01.01.2011;23;Berg a.I.;2;Andelfingen;110;Weinland;586
+01.01.2012;23;Berg a.I.;2;Andelfingen;110;Weinland;587
+01.01.2017;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;588
+01.01.2020;23;Berg a.I.;2;Andelfingen;110;Weinland;595
+01.01.2019;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;596
+01.01.2014;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;598
+01.01.2010;23;Berg a.I.;2;Andelfingen;110;Weinland;599
+01.01.2010;211;Altikon;10;Uster;109;Winterthur und Umgebung;601
+01.01.2016;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;601
+01.01.2013;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;607
+01.01.2014;21;Adlikon;2;Andelfingen;110;Weinland;609
+01.01.2010;8;Maschwanden;1;Affoltern;105;Knonaueramt;612
+01.01.2020;81;Bachs;4;Dielsdorf;111;Zürcher Unterland;615
+01.01.2012;211;Altikon;10;Uster;109;Winterthur und Umgebung;618
+01.01.2011;211;Altikon;10;Uster;109;Winterthur und Umgebung;619
+01.01.2013;26;Dorf;2;Andelfingen;110;Weinland;620
+01.01.2016;8;Maschwanden;1;Affoltern;105;Knonaueramt;620
+01.01.2016;26;Dorf;2;Andelfingen;110;Weinland;626
+01.01.2015;26;Dorf;2;Andelfingen;110;Weinland;627
+01.01.2010;26;Dorf;2;Andelfingen;110;Weinland;633
+01.01.2011;26;Dorf;2;Andelfingen;110;Weinland;633
+01.01.2012;26;Dorf;2;Andelfingen;110;Weinland;634
+01.01.2013;211;Altikon;10;Uster;109;Winterthur und Umgebung;635
+01.01.2017;8;Maschwanden;1;Affoltern;105;Knonaueramt;636
+01.01.2020;8;Maschwanden;1;Affoltern;105;Knonaueramt;636
+01.01.2015;8;Maschwanden;1;Affoltern;105;Knonaueramt;638
+01.01.2019;8;Maschwanden;1;Affoltern;105;Knonaueramt;640
+01.01.2011;8;Maschwanden;1;Affoltern;105;Knonaueramt;641
+01.01.2012;8;Maschwanden;1;Affoltern;105;Knonaueramt;641
+01.01.2014;26;Dorf;2;Andelfingen;110;Weinland;643
+01.01.2018;8;Maschwanden;1;Affoltern;105;Knonaueramt;648
+01.01.2016;211;Altikon;10;Uster;109;Winterthur und Umgebung;653
+01.01.2017;21;Adlikon;2;Andelfingen;110;Weinland;655
+01.01.2015;211;Altikon;10;Uster;109;Winterthur und Umgebung;655
+01.01.2014;211;Altikon;10;Uster;109;Winterthur und Umgebung;657
+01.01.2018;26;Dorf;2;Andelfingen;110;Weinland;658
+01.01.2019;26;Dorf;2;Andelfingen;110;Weinland;658
+01.01.2015;21;Adlikon;2;Andelfingen;110;Weinland;662
+01.01.2016;21;Adlikon;2;Andelfingen;110;Weinland;662
+01.01.2011;87;Hüttikon;4;Dielsdorf;103;Furttal;664
+01.01.2013;8;Maschwanden;1;Affoltern;105;Knonaueramt;664
+01.01.2014;8;Maschwanden;1;Affoltern;105;Knonaueramt;664
+01.01.2020;26;Dorf;2;Andelfingen;110;Weinland;665
+01.01.2010;87;Hüttikon;4;Dielsdorf;103;Furttal;665
+01.01.2012;87;Hüttikon;4;Dielsdorf;103;Furttal;668
+01.01.2017;211;Altikon;10;Uster;109;Winterthur und Umgebung;674
+01.01.2013;87;Hüttikon;4;Dielsdorf;103;Furttal;679
+01.01.2017;26;Dorf;2;Andelfingen;110;Weinland;684
+01.01.2020;21;Adlikon;2;Andelfingen;110;Weinland;689
+01.01.2019;21;Adlikon;2;Andelfingen;110;Weinland;694
+01.01.2019;211;Altikon;10;Uster;109;Winterthur und Umgebung;698
+01.01.2020;211;Altikon;10;Uster;109;Winterthur und Umgebung;702
+01.01.2014;87;Hüttikon;4;Dielsdorf;103;Furttal;703
+01.01.2018;211;Altikon;10;Uster;109;Winterthur und Umgebung;705
+01.01.2018;21;Adlikon;2;Andelfingen;110;Weinland;707
+01.01.2013;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;707
+01.01.2010;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;717
+01.01.2012;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;718
+01.01.2015;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;720
+01.01.2011;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;722
+01.01.2016;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;725
+01.01.2018;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;728
+01.01.2017;226;Schlatt;10;Uster;109;Winterthur und Umgebung;730
+01.01.2014;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;730
+01.01.2013;226;Schlatt;10;Uster;109;Winterthur und Umgebung;733
+01.01.2010;226;Schlatt;10;Uster;109;Winterthur und Umgebung;734
+01.01.2015;226;Schlatt;10;Uster;109;Winterthur und Umgebung;735
+01.01.2017;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;736
+01.01.2011;226;Schlatt;10;Uster;109;Winterthur und Umgebung;737
+01.01.2012;226;Schlatt;10;Uster;109;Winterthur und Umgebung;738
+01.01.2016;226;Schlatt;10;Uster;109;Winterthur und Umgebung;739
+01.01.2015;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;745
+01.01.2010;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;746
+01.01.2011;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;747
+01.01.2012;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;748
+01.01.2014;226;Schlatt;10;Uster;109;Winterthur und Umgebung;754
+01.01.2013;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;756
+01.01.2019;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;757
+01.01.2014;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;762
+01.01.2018;226;Schlatt;10;Uster;109;Winterthur und Umgebung;763
+01.01.2019;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;777
+01.01.2020;226;Schlatt;10;Uster;109;Winterthur und Umgebung;778
+01.01.2016;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;780
+01.01.2017;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;783
+01.01.2019;226;Schlatt;10;Uster;109;Winterthur und Umgebung;785
+01.01.2018;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;790
+01.01.2010;22;Benken;2;Andelfingen;110;Weinland;799
+01.01.2020;215;Dättlikon;10;Uster;109;Winterthur und Umgebung;799
+01.01.2010;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;818
+01.01.2011;22;Benken;2;Andelfingen;110;Weinland;819
+01.01.2012;22;Benken;2;Andelfingen;110;Weinland;823
+01.01.2014;22;Benken;2;Andelfingen;110;Weinland;824
+01.01.2013;22;Benken;2;Andelfingen;110;Weinland;828
+01.01.2019;22;Benken;2;Andelfingen;110;Weinland;847
+01.01.2020;22;Benken;2;Andelfingen;110;Weinland;851
+01.01.2018;22;Benken;2;Andelfingen;110;Weinland;855
+01.01.2020;98;Schleinikon;4;Dielsdorf;111;Zürcher Unterland;856
+01.01.2017;22;Benken;2;Andelfingen;110;Weinland;857
+01.01.2016;22;Benken;2;Andelfingen;110;Weinland;858
+01.01.2015;22;Benken;2;Andelfingen;110;Weinland;859
+01.01.2010;24;Buch a.I.;2;Andelfingen;110;Weinland;872
+01.01.2011;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;876
+01.01.2015;87;Hüttikon;4;Dielsdorf;103;Furttal;879
+01.01.2016;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;882
+01.01.2015;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;885
+01.01.2010;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;889
+01.01.2011;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;892
+01.01.2011;24;Buch a.I.;2;Andelfingen;110;Weinland;894
+01.01.2012;24;Buch a.I.;2;Andelfingen;110;Weinland;898
+01.01.2012;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;898
+01.01.2010;12;Rifferswil;1;Affoltern;105;Knonaueramt;900
+01.01.2019;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;901
+01.01.2013;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;903
+01.01.2017;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;903
+01.01.2018;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;903
+01.01.2015;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;903
+01.01.2016;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;905
+01.01.2014;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;907
+01.01.2012;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;914
+01.01.2016;87;Hüttikon;4;Dielsdorf;103;Furttal;916
+01.01.2013;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;916
+01.01.2014;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;916
+01.01.2018;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;917
+01.01.2010;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;918
+01.01.2013;24;Buch a.I.;2;Andelfingen;110;Weinland;919
+01.01.2018;87;Hüttikon;4;Dielsdorf;103;Furttal;922
+01.01.2012;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;922
+01.01.2017;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;922
+01.01.2014;24;Buch a.I.;2;Andelfingen;110;Weinland;923
+01.01.2017;87;Hüttikon;4;Dielsdorf;103;Furttal;925
+01.01.2011;12;Rifferswil;1;Affoltern;105;Knonaueramt;933
+01.01.2020;218;Ellikon a.d.Th.;10;Uster;109;Winterthur und Umgebung;935
+01.01.2019;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;942
+01.01.2010;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;946
+01.01.2020;87;Hüttikon;4;Dielsdorf;103;Furttal;947
+01.01.2019;87;Hüttikon;4;Dielsdorf;103;Furttal;949
+01.01.2011;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;952
+01.01.2020;39;Thalheim a.d.Th.;2;Andelfingen;110;Weinland;953
+01.01.2016;24;Buch a.I.;2;Andelfingen;110;Weinland;955
+01.01.2013;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;955
+01.01.2012;12;Rifferswil;1;Affoltern;105;Knonaueramt;957
+01.01.2011;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;958
+01.01.2013;12;Rifferswil;1;Affoltern;105;Knonaueramt;959
+01.01.2015;24;Buch a.I.;2;Andelfingen;110;Weinland;961
+01.01.2010;182;Wildberg;8;Meilen;108;Zürcher Oberland;965
+01.01.2010;65;Oberembrach;3;Bülach;111;Zürcher Unterland;966
+01.01.2017;24;Buch a.I.;2;Andelfingen;110;Weinland;970
+01.01.2018;24;Buch a.I.;2;Andelfingen;110;Weinland;977
+01.01.2013;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;977
+01.01.2019;24;Buch a.I.;2;Andelfingen;110;Weinland;979
+01.01.2014;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;979
+01.01.2010;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;980
+01.01.2016;182;Wildberg;8;Meilen;108;Zürcher Oberland;980
+01.01.2011;182;Wildberg;8;Meilen;108;Zürcher Oberland;981
+01.01.2012;40;Trüllikon;2;Andelfingen;110;Weinland;982
+01.01.2019;182;Wildberg;8;Meilen;108;Zürcher Oberland;982
+01.01.2013;182;Wildberg;8;Meilen;108;Zürcher Oberland;985
+01.01.2012;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;986
+01.01.2013;40;Trüllikon;2;Andelfingen;110;Weinland;989
+01.01.2014;182;Wildberg;8;Meilen;108;Zürcher Oberland;991
+01.01.2011;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;992
+01.01.2016;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;992
+01.01.2011;40;Trüllikon;2;Andelfingen;110;Weinland;992
+01.01.2010;40;Trüllikon;2;Andelfingen;110;Weinland;993
+01.01.2017;182;Wildberg;8;Meilen;108;Zürcher Oberland;994
+01.01.2014;12;Rifferswil;1;Affoltern;105;Knonaueramt;999
+01.01.2011;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1001
+01.01.2012;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1002
+01.01.2012;182;Wildberg;8;Meilen;108;Zürcher Oberland;1002
+01.01.2018;182;Wildberg;8;Meilen;108;Zürcher Oberland;1002
+01.01.2010;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1005
+01.01.2013;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1005
+01.01.2015;182;Wildberg;8;Meilen;108;Zürcher Oberland;1006
+01.01.2020;182;Wildberg;8;Meilen;108;Zürcher Oberland;1009
+01.01.2017;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1012
+01.01.2015;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1013
+01.01.2014;40;Trüllikon;2;Andelfingen;110;Weinland;1013
+01.01.2015;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1014
+01.01.2014;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1014
+01.01.2014;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1014
+01.01.2015;40;Trüllikon;2;Andelfingen;110;Weinland;1014
+01.01.2018;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1016
+01.01.2017;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1020
+01.01.2020;24;Buch a.I.;2;Andelfingen;110;Weinland;1022
+01.01.2016;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1022
+01.01.2011;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1022
+01.01.2012;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1025
+01.01.2018;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1028
+01.01.2015;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1029
+01.01.2010;241;Aesch;11;Winterthur;104;Limmattal;1034
+01.01.2019;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1037
+01.01.2020;214;Dägerlen;10;Uster;109;Winterthur und Umgebung;1038
+01.01.2018;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1054
+01.01.2017;40;Trüllikon;2;Andelfingen;110;Weinland;1054
+01.01.2020;40;Trüllikon;2;Andelfingen;110;Weinland;1055
+01.01.2015;12;Rifferswil;1;Affoltern;105;Knonaueramt;1056
+01.01.2019;40;Trüllikon;2;Andelfingen;110;Weinland;1056
+01.01.2019;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1057
+01.01.2017;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1057
+01.01.2018;40;Trüllikon;2;Andelfingen;110;Weinland;1062
+01.01.2016;40;Trüllikon;2;Andelfingen;110;Weinland;1064
+01.01.2020;61;Hüntwangen;3;Bülach;111;Zürcher Unterland;1066
+01.01.2015;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1066
+01.01.2016;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1068
+01.01.2013;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1074
+01.01.2016;12;Rifferswil;1;Affoltern;105;Knonaueramt;1075
+01.01.2012;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1076
+01.01.2019;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1079
+01.01.2011;241;Aesch;11;Winterthur;104;Limmattal;1083
+01.01.2018;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1083
+01.01.2013;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1084
+01.01.2014;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1091
+01.01.2011;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1093
+01.01.2016;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1093
+01.01.2013;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1094
+01.01.2020;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1095
+01.01.2017;12;Rifferswil;1;Affoltern;105;Knonaueramt;1096
+01.01.2010;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1097
+01.01.2020;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1097
+01.01.2019;65;Oberembrach;3;Bülach;111;Zürcher Unterland;1101
+01.01.2012;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1104
+01.01.2017;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1105
+01.01.2015;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1107
+01.01.2016;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1110
+01.01.2014;220;Hagenbuch;10;Uster;109;Winterthur und Umgebung;1112
+01.01.2018;12;Rifferswil;1;Affoltern;105;Knonaueramt;1122
+01.01.2017;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1124
+01.01.2019;12;Rifferswil;1;Affoltern;105;Knonaueramt;1129
+01.01.2020;12;Rifferswil;1;Affoltern;105;Knonaueramt;1149
+01.01.2014;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1153
+01.01.2012;241;Aesch;11;Winterthur;104;Limmattal;1158
+01.01.2018;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1158
+01.01.2014;241;Aesch;11;Winterthur;104;Limmattal;1182
+01.01.2013;241;Aesch;11;Winterthur;104;Limmattal;1183
+01.01.2015;241;Aesch;11;Winterthur;104;Limmattal;1198
+01.01.2019;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1221
+01.01.2010;28;Flaach;2;Andelfingen;110;Weinland;1223
+01.01.2020;6;Kappel a.A.;1;Affoltern;105;Knonaueramt;1244
+01.01.2011;28;Flaach;2;Andelfingen;110;Weinland;1247
+01.01.2016;241;Aesch;11;Winterthur;104;Limmattal;1269
+01.01.2012;82;Boppelsen;4;Dielsdorf;103;Furttal;1274
+01.01.2014;82;Boppelsen;4;Dielsdorf;103;Furttal;1280
+01.01.2010;71;Wil;3;Bülach;111;Zürcher Unterland;1281
+01.01.2010;82;Boppelsen;4;Dielsdorf;103;Furttal;1286
+01.01.2011;82;Boppelsen;4;Dielsdorf;103;Furttal;1286
+01.01.2020;38;Rheinau;2;Andelfingen;110;Weinland;1291
+01.01.2010;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1296
+01.01.2011;71;Wil;3;Bülach;111;Zürcher Unterland;1296
+01.01.2017;38;Rheinau;2;Andelfingen;110;Weinland;1298
+01.01.2011;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1298
+01.01.2012;71;Wil;3;Bülach;111;Zürcher Unterland;1298
+01.01.2010;38;Rheinau;2;Andelfingen;110;Weinland;1300
+01.01.2016;38;Rheinau;2;Andelfingen;110;Weinland;1301
+01.01.2013;82;Boppelsen;4;Dielsdorf;103;Furttal;1304
+01.01.2012;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1307
+01.01.2014;38;Rheinau;2;Andelfingen;110;Weinland;1312
+01.01.2013;71;Wil;3;Bülach;111;Zürcher Unterland;1312
+01.01.2019;38;Rheinau;2;Andelfingen;110;Weinland;1315
+01.01.2011;38;Rheinau;2;Andelfingen;110;Weinland;1316
+01.01.2015;38;Rheinau;2;Andelfingen;110;Weinland;1316
+01.01.2015;82;Boppelsen;4;Dielsdorf;103;Furttal;1317
+01.01.2016;82;Boppelsen;4;Dielsdorf;103;Furttal;1318
+01.01.2013;38;Rheinau;2;Andelfingen;110;Weinland;1321
+01.01.2018;38;Rheinau;2;Andelfingen;110;Weinland;1323
+01.01.2012;28;Flaach;2;Andelfingen;110;Weinland;1330
+01.01.2013;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1332
+01.01.2017;241;Aesch;11;Winterthur;104;Limmattal;1341
+01.01.2010;37;Ossingen;2;Andelfingen;110;Weinland;1341
+01.01.2012;38;Rheinau;2;Andelfingen;110;Weinland;1346
+01.01.2012;37;Ossingen;2;Andelfingen;110;Weinland;1348
+01.01.2011;37;Ossingen;2;Andelfingen;110;Weinland;1350
+01.01.2013;28;Flaach;2;Andelfingen;110;Weinland;1351
+01.01.2014;71;Wil;3;Bülach;111;Zürcher Unterland;1351
+01.01.2010;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1353
+01.01.2016;28;Flaach;2;Andelfingen;110;Weinland;1354
+01.01.2011;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1356
+01.01.2015;28;Flaach;2;Andelfingen;110;Weinland;1357
+01.01.2013;37;Ossingen;2;Andelfingen;110;Weinland;1358
+01.01.2014;28;Flaach;2;Andelfingen;110;Weinland;1361
+01.01.2013;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1362
+01.01.2016;71;Wil;3;Bülach;111;Zürcher Unterland;1364
+01.01.2017;82;Boppelsen;4;Dielsdorf;103;Furttal;1365
+01.01.2018;82;Boppelsen;4;Dielsdorf;103;Furttal;1372
+01.01.2012;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1373
+01.01.2017;28;Flaach;2;Andelfingen;110;Weinland;1375
+01.01.2015;71;Wil;3;Bülach;111;Zürcher Unterland;1375
+01.01.2018;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1377
+01.01.2019;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1377
+01.01.2015;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1377
+01.01.2014;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1384
+01.01.2016;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1384
+01.01.2010;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1387
+01.01.2014;37;Ossingen;2;Andelfingen;110;Weinland;1389
+01.01.2020;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1394
+01.01.2015;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1395
+01.01.2017;99;Schöfflisdorf;4;Dielsdorf;111;Zürcher Unterland;1398
+01.01.2014;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1399
+01.01.2013;29;Flurlingen;2;Andelfingen;110;Weinland;1401
+01.01.2018;28;Flaach;2;Andelfingen;110;Weinland;1407
+01.01.2017;71;Wil;3;Bülach;111;Zürcher Unterland;1407
+01.01.2011;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1412
+01.01.2012;29;Flurlingen;2;Andelfingen;110;Weinland;1415
+01.01.2019;28;Flaach;2;Andelfingen;110;Weinland;1420
+01.01.2014;29;Flurlingen;2;Andelfingen;110;Weinland;1420
+01.01.2018;71;Wil;3;Bülach;111;Zürcher Unterland;1421
+01.01.2015;37;Ossingen;2;Andelfingen;110;Weinland;1422
+01.01.2020;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1423
+01.01.2019;82;Boppelsen;4;Dielsdorf;103;Furttal;1424
+01.01.2017;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1426
+01.01.2019;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1426
+01.01.2020;28;Flaach;2;Andelfingen;110;Weinland;1427
+01.01.2010;29;Flurlingen;2;Andelfingen;110;Weinland;1430
+01.01.2011;29;Flurlingen;2;Andelfingen;110;Weinland;1430
+01.01.2016;29;Flurlingen;2;Andelfingen;110;Weinland;1433
+01.01.2015;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1435
+01.01.2016;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1436
+01.01.2015;29;Flurlingen;2;Andelfingen;110;Weinland;1437
+01.01.2017;29;Flurlingen;2;Andelfingen;110;Weinland;1437
+01.01.2018;29;Flurlingen;2;Andelfingen;110;Weinland;1437
+01.01.2018;119;Seegräben;5;Dietikon;108;Zürcher Oberland;1439
+01.01.2012;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1451
+01.01.2016;37;Ossingen;2;Andelfingen;110;Weinland;1451
+01.01.2020;82;Boppelsen;4;Dielsdorf;103;Furttal;1465
+01.01.2016;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1471
+01.01.2019;71;Wil;3;Bülach;111;Zürcher Unterland;1472
+01.01.2019;29;Flurlingen;2;Andelfingen;110;Weinland;1477
+01.01.2014;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1482
+01.01.2020;71;Wil;3;Bülach;111;Zürcher Unterland;1487
+01.01.2015;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1490
+01.01.2013;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1497
+01.01.2010;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1511
+01.01.2016;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1529
+01.01.2011;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1533
+01.01.2017;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1551
+01.01.2018;241;Aesch;11;Winterthur;104;Limmattal;1555
+01.01.2020;29;Flurlingen;2;Andelfingen;110;Weinland;1556
+01.01.2012;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1560
+01.01.2017;37;Ossingen;2;Andelfingen;110;Weinland;1566
+01.01.2013;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1622
+01.01.2018;37;Ossingen;2;Andelfingen;110;Weinland;1633
+01.01.2014;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1635
+01.01.2015;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1639
+01.01.2016;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1644
+01.01.2018;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1654
+01.01.2019;241;Aesch;11;Winterthur;104;Limmattal;1661
+01.01.2019;37;Ossingen;2;Andelfingen;110;Weinland;1665
+01.01.2017;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1669
+01.01.2019;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1686
+01.01.2020;241;Aesch;11;Winterthur;104;Limmattal;1707
+01.01.2018;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1707
+01.01.2020;37;Ossingen;2;Andelfingen;110;Weinland;1726
+01.01.2011;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1733
+01.01.2020;216;Dinhard;10;Uster;109;Winterthur und Umgebung;1740
+01.01.2010;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1745
+01.01.2013;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1748
+01.01.2012;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1749
+01.01.2017;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1750
+01.01.2010;63;Lufingen;3;Bülach;111;Zürcher Unterland;1756
+01.01.2019;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1759
+01.01.2016;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1776
+01.01.2020;34;Laufen-Uhwiesen;2;Andelfingen;110;Weinland;1780
+01.01.2019;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1791
+01.01.2015;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1796
+01.01.2017;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1797
+01.01.2018;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1799
+01.01.2010;7;Knonau;1;Affoltern;105;Knonaueramt;1802
+01.01.2018;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1809
+01.01.2010;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1822
+01.01.2011;63;Lufingen;3;Bülach;111;Zürcher Unterland;1823
+01.01.2014;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1823
+01.01.2012;63;Lufingen;3;Bülach;111;Zürcher Unterland;1836
+01.01.2020;85;Dänikon;4;Dielsdorf;103;Furttal;1847
+01.01.2010;30;Andelfingen;2;Andelfingen;110;Weinland;1860
+01.01.2019;85;Dänikon;4;Dielsdorf;103;Furttal;1860
+01.01.2017;85;Dänikon;4;Dielsdorf;103;Furttal;1869
+01.01.2013;63;Lufingen;3;Bülach;111;Zürcher Unterland;1872
+01.01.2018;85;Dänikon;4;Dielsdorf;103;Furttal;1873
+01.01.2016;85;Dänikon;4;Dielsdorf;103;Furttal;1877
+01.01.2015;85;Dänikon;4;Dielsdorf;103;Furttal;1888
+01.01.2011;7;Knonau;1;Affoltern;105;Knonaueramt;1894
+01.01.2020;93;Oberweningen;4;Dielsdorf;111;Zürcher Unterland;1896
+01.01.2018;35;Marthalen;2;Andelfingen;110;Weinland;1902
+01.01.2010;85;Dänikon;4;Dielsdorf;103;Furttal;1903
+01.01.2019;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1905
+01.01.2019;35;Marthalen;2;Andelfingen;110;Weinland;1908
+01.01.2011;181;Wila;8;Meilen;108;Zürcher Oberland;1908
+01.01.2011;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1911
+01.01.2020;25;Dachsen;2;Andelfingen;110;Weinland;1912
+01.01.2011;85;Dänikon;4;Dielsdorf;103;Furttal;1913
+01.01.2014;63;Lufingen;3;Bülach;111;Zürcher Unterland;1914
+01.01.2018;25;Dachsen;2;Andelfingen;110;Weinland;1916
+01.01.2019;25;Dachsen;2;Andelfingen;110;Weinland;1916
+01.01.2013;181;Wila;8;Meilen;108;Zürcher Oberland;1916
+01.01.2014;181;Wila;8;Meilen;108;Zürcher Oberland;1920
+01.01.2015;181;Wila;8;Meilen;108;Zürcher Oberland;1926
+01.01.2010;213;Brütten;10;Uster;109;Winterthur und Umgebung;1927
+01.01.2017;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1927
+01.01.2018;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1927
+01.01.2012;85;Dänikon;4;Dielsdorf;103;Furttal;1929
+01.01.2020;35;Marthalen;2;Andelfingen;110;Weinland;1929
+01.01.2017;25;Dachsen;2;Andelfingen;110;Weinland;1931
+01.01.2010;181;Wila;8;Meilen;108;Zürcher Oberland;1933
+01.01.2017;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1934
+01.01.2010;35;Marthalen;2;Andelfingen;110;Weinland;1935
+01.01.2011;213;Brütten;10;Uster;109;Winterthur und Umgebung;1938
+01.01.2016;35;Marthalen;2;Andelfingen;110;Weinland;1938
+01.01.2010;25;Dachsen;2;Andelfingen;110;Weinland;1941
+01.01.2016;181;Wila;8;Meilen;108;Zürcher Oberland;1941
+01.01.2012;181;Wila;8;Meilen;108;Zürcher Oberland;1942
+01.01.2014;85;Dänikon;4;Dielsdorf;103;Furttal;1944
+01.01.2013;85;Dänikon;4;Dielsdorf;103;Furttal;1946
+01.01.2017;35;Marthalen;2;Andelfingen;110;Weinland;1949
+01.01.2015;35;Marthalen;2;Andelfingen;110;Weinland;1950
+01.01.2014;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1952
+01.01.2011;25;Dachsen;2;Andelfingen;110;Weinland;1954
+01.01.2012;25;Dachsen;2;Andelfingen;110;Weinland;1955
+01.01.2016;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1957
+01.01.2012;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1959
+01.01.2012;35;Marthalen;2;Andelfingen;110;Weinland;1964
+01.01.2016;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1969
+01.01.2013;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1970
+01.01.2018;181;Wila;8;Meilen;108;Zürcher Oberland;1971
+01.01.2011;35;Marthalen;2;Andelfingen;110;Weinland;1975
+01.01.2017;181;Wila;8;Meilen;108;Zürcher Oberland;1975
+01.01.2019;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1978
+01.01.2013;35;Marthalen;2;Andelfingen;110;Weinland;1978
+01.01.2019;181;Wila;8;Meilen;108;Zürcher Oberland;1978
+01.01.2018;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1979
+01.01.2013;25;Dachsen;2;Andelfingen;110;Weinland;1979
+01.01.2012;7;Knonau;1;Affoltern;105;Knonaueramt;1979
+01.01.2010;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;1979
+01.01.2011;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;1980
+01.01.2019;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1981
+01.01.2012;213;Brütten;10;Uster;109;Winterthur und Umgebung;1985
+01.01.2015;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;1986
+01.01.2015;25;Dachsen;2;Andelfingen;110;Weinland;1986
+01.01.2014;35;Marthalen;2;Andelfingen;110;Weinland;1986
+01.01.2020;102;Weiach;4;Dielsdorf;111;Zürcher Unterland;1987
+01.01.2016;25;Dachsen;2;Andelfingen;110;Weinland;1988
+01.01.2015;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1989
+01.01.2011;30;Andelfingen;2;Andelfingen;110;Weinland;1990
+01.01.2020;181;Wila;8;Meilen;108;Zürcher Oberland;1996
+01.01.2010;59;Hochfelden;3;Bülach;111;Zürcher Unterland;1999
+01.01.2013;7;Knonau;1;Affoltern;105;Knonaueramt;1999
+01.01.2014;25;Dachsen;2;Andelfingen;110;Weinland;2001
+01.01.2015;213;Brütten;10;Uster;109;Winterthur und Umgebung;2006
+01.01.2011;59;Hochfelden;3;Bülach;111;Zürcher Unterland;2007
+01.01.2013;213;Brütten;10;Uster;109;Winterthur und Umgebung;2008
+01.01.2013;59;Hochfelden;3;Bülach;111;Zürcher Unterland;2008
+01.01.2012;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2008
+01.01.2018;213;Brütten;10;Uster;109;Winterthur und Umgebung;2009
+01.01.2012;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2010
+01.01.2020;1;Aeugst a.A.;1;Affoltern;105;Knonaueramt;2011
+01.01.2017;213;Brütten;10;Uster;109;Winterthur und Umgebung;2016
+01.01.2014;59;Hochfelden;3;Bülach;111;Zürcher Unterland;2018
+01.01.2020;59;Hochfelden;3;Bülach;111;Zürcher Unterland;2019
+01.01.2016;213;Brütten;10;Uster;109;Winterthur und Umgebung;2021
+01.01.2012;59;Hochfelden;3;Bülach;111;Zürcher Unterland;2021
+01.01.2011;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2022
+01.01.2013;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2026
+01.01.2014;213;Brütten;10;Uster;109;Winterthur und Umgebung;2031
+01.01.2014;7;Knonau;1;Affoltern;105;Knonaueramt;2033
+01.01.2013;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2038
+01.01.2012;30;Andelfingen;2;Andelfingen;110;Weinland;2062
+01.01.2020;213;Brütten;10;Uster;109;Winterthur und Umgebung;2063
+01.01.2014;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2063
+01.01.2016;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2063
+01.01.2015;63;Lufingen;3;Bülach;111;Zürcher Unterland;2066
+01.01.2019;213;Brütten;10;Uster;109;Winterthur und Umgebung;2068
+01.01.2015;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2068
+01.01.2010;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2077
+01.01.2017;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2077
+01.01.2019;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2077
+01.01.2015;7;Knonau;1;Affoltern;105;Knonaueramt;2094
+01.01.2013;30;Andelfingen;2;Andelfingen;110;Weinland;2100
+01.01.2020;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2105
+01.01.2018;33;Kleinandelfingen;2;Andelfingen;110;Weinland;2109
+01.01.2014;30;Andelfingen;2;Andelfingen;110;Weinland;2154
+01.01.2016;7;Knonau;1;Affoltern;105;Knonaueramt;2158
+01.01.2014;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2159
+01.01.2015;30;Andelfingen;2;Andelfingen;110;Weinland;2168
+01.01.2017;30;Andelfingen;2;Andelfingen;110;Weinland;2201
+01.01.2016;63;Lufingen;3;Bülach;111;Zürcher Unterland;2202
+01.01.2018;30;Andelfingen;2;Andelfingen;110;Weinland;2207
+01.01.2015;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2210
+01.01.2010;31;Henggart;2;Andelfingen;110;Weinland;2214
+01.01.2016;30;Andelfingen;2;Andelfingen;110;Weinland;2221
+01.01.2016;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2224
+01.01.2020;30;Andelfingen;2;Andelfingen;110;Weinland;2227
+01.01.2019;31;Henggart;2;Andelfingen;110;Weinland;2235
+01.01.2019;30;Andelfingen;2;Andelfingen;110;Weinland;2238
+01.01.2011;31;Henggart;2;Andelfingen;110;Weinland;2239
+01.01.2016;31;Henggart;2;Andelfingen;110;Weinland;2240
+01.01.2018;31;Henggart;2;Andelfingen;110;Weinland;2243
+01.01.2012;31;Henggart;2;Andelfingen;110;Weinland;2248
+01.01.2015;31;Henggart;2;Andelfingen;110;Weinland;2250
+01.01.2017;31;Henggart;2;Andelfingen;110;Weinland;2256
+01.01.2017;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2271
+01.01.2013;31;Henggart;2;Andelfingen;110;Weinland;2273
+01.01.2014;31;Henggart;2;Andelfingen;110;Weinland;2274
+01.01.2011;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2280
+01.01.2013;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2287
+01.01.2010;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2288
+01.01.2010;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2289
+01.01.2018;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2290
+01.01.2013;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2293
+01.01.2020;31;Henggart;2;Andelfingen;110;Weinland;2294
+01.01.2010;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2295
+01.01.2019;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2296
+01.01.2017;7;Knonau;1;Affoltern;105;Knonaueramt;2301
+01.01.2015;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2303
+01.01.2014;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2305
+01.01.2014;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2310
+01.01.2012;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2317
+01.01.2013;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2323
+01.01.2011;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2324
+01.01.2014;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2325
+01.01.2012;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2326
+01.01.2012;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2330
+01.01.2011;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2330
+01.01.2016;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2333
+01.01.2020;100;Stadel;4;Dielsdorf;111;Zürcher Unterland;2335
+01.01.2010;68;Rorbas;3;Bülach;111;Zürcher Unterland;2343
+01.01.2015;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2363
+01.01.2018;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2367
+01.01.2020;7;Knonau;1;Affoltern;105;Knonaueramt;2368
+01.01.2017;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2371
+01.01.2018;7;Knonau;1;Affoltern;105;Knonaueramt;2371
+01.01.2019;7;Knonau;1;Affoltern;105;Knonaueramt;2373
+01.01.2017;63;Lufingen;3;Bülach;111;Zürcher Unterland;2373
+01.01.2019;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2390
+01.01.2018;63;Lufingen;3;Bülach;111;Zürcher Unterland;2397
+01.01.2020;57;Freienstein-Teufen;3;Bülach;111;Zürcher Unterland;2398
+01.01.2010;11;Ottenbach;1;Affoltern;105;Knonaueramt;2412
+01.01.2019;63;Lufingen;3;Bülach;111;Zürcher Unterland;2414
+01.01.2015;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2425
+01.01.2016;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2432
+01.01.2010;94;Otelfingen;4;Dielsdorf;103;Furttal;2449
+01.01.2011;60;Höri;3;Bülach;111;Zürcher Unterland;2450
+01.01.2010;60;Höri;3;Bülach;111;Zürcher Unterland;2457
+01.01.2011;11;Ottenbach;1;Affoltern;105;Knonaueramt;2459
+01.01.2017;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2464
+01.01.2016;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2473
+01.01.2013;11;Ottenbach;1;Affoltern;105;Knonaueramt;2475
+01.01.2011;68;Rorbas;3;Bülach;111;Zürcher Unterland;2478
+01.01.2012;11;Ottenbach;1;Affoltern;105;Knonaueramt;2479
+01.01.2020;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2494
+01.01.2018;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2496
+01.01.2010;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2500
+01.01.2012;68;Rorbas;3;Bülach;111;Zürcher Unterland;2503
+01.01.2017;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2504
+01.01.2019;114;Fischenthal;5;Dietikon;108;Zürcher Oberland;2505
+01.01.2013;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2515
+01.01.2019;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2518
+01.01.2020;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2529
+01.01.2011;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2535
+01.01.2014;11;Ottenbach;1;Affoltern;105;Knonaueramt;2542
+01.01.2018;246;Oetwil a.d.L.;11;Winterthur;104;Limmattal;2547
+01.01.2012;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2549
+01.01.2018;11;Ottenbach;1;Affoltern;105;Knonaueramt;2553
+01.01.2014;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2554
+01.01.2017;11;Ottenbach;1;Affoltern;105;Knonaueramt;2556
+01.01.2020;63;Lufingen;3;Bülach;111;Zürcher Unterland;2561
+01.01.2015;11;Ottenbach;1;Affoltern;105;Knonaueramt;2566
+01.01.2016;11;Ottenbach;1;Affoltern;105;Knonaueramt;2578
+01.01.2013;68;Rorbas;3;Bülach;111;Zürcher Unterland;2583
+01.01.2015;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2591
+01.01.2019;11;Ottenbach;1;Affoltern;105;Knonaueramt;2593
+01.01.2011;94;Otelfingen;4;Dielsdorf;103;Furttal;2608
+01.01.2012;60;Höri;3;Bülach;111;Zürcher Unterland;2611
+01.01.2013;60;Höri;3;Bülach;111;Zürcher Unterland;2634
+01.01.2015;60;Höri;3;Bülach;111;Zürcher Unterland;2639
+01.01.2010;292;Stammheim;2;Andelfingen;110;Weinland;2646
+01.01.2017;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2655
+01.01.2012;292;Stammheim;2;Andelfingen;110;Weinland;2661
+01.01.2014;60;Höri;3;Bülach;111;Zürcher Unterland;2662
+01.01.2011;292;Stammheim;2;Andelfingen;110;Weinland;2673
+01.01.2016;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2683
+01.01.2016;60;Höri;3;Bülach;111;Zürcher Unterland;2690
+01.01.2014;68;Rorbas;3;Bülach;111;Zürcher Unterland;2701
+01.01.2018;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2703
+01.01.2020;11;Ottenbach;1;Affoltern;105;Knonaueramt;2706
+01.01.2013;292;Stammheim;2;Andelfingen;110;Weinland;2710
+01.01.2017;60;Höri;3;Bülach;111;Zürcher Unterland;2721
+01.01.2014;292;Stammheim;2;Andelfingen;110;Weinland;2727
+01.01.2010;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2729
+01.01.2013;94;Otelfingen;4;Dielsdorf;103;Furttal;2729
+01.01.2018;292;Stammheim;2;Andelfingen;110;Weinland;2740
+01.01.2017;292;Stammheim;2;Andelfingen;110;Weinland;2741
+01.01.2015;68;Rorbas;3;Bülach;111;Zürcher Unterland;2742
+01.01.2019;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2743
+01.01.2016;292;Stammheim;2;Andelfingen;110;Weinland;2746
+01.01.2012;94;Otelfingen;4;Dielsdorf;103;Furttal;2751
+01.01.2012;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2758
+01.01.2011;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2761
+01.01.2015;292;Stammheim;2;Andelfingen;110;Weinland;2771
+01.01.2015;94;Otelfingen;4;Dielsdorf;103;Furttal;2777
+01.01.2019;292;Stammheim;2;Andelfingen;110;Weinland;2785
+01.01.2014;94;Otelfingen;4;Dielsdorf;103;Furttal;2786
+01.01.2013;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2787
+01.01.2016;68;Rorbas;3;Bülach;111;Zürcher Unterland;2794
+01.01.2020;225;Rickenbach;10;Uster;109;Winterthur und Umgebung;2799
+01.01.2016;94;Otelfingen;4;Dielsdorf;103;Furttal;2821
+01.01.2018;68;Rorbas;3;Bülach;111;Zürcher Unterland;2824
+01.01.2018;60;Höri;3;Bülach;111;Zürcher Unterland;2831
+01.01.2017;94;Otelfingen;4;Dielsdorf;103;Furttal;2831
+01.01.2017;68;Rorbas;3;Bülach;111;Zürcher Unterland;2837
+01.01.2015;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2856
+01.01.2020;292;Stammheim;2;Andelfingen;110;Weinland;2858
+01.01.2014;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2871
+01.01.2019;60;Höri;3;Bülach;111;Zürcher Unterland;2877
+01.01.2019;68;Rorbas;3;Bülach;111;Zürcher Unterland;2883
+01.01.2020;68;Rorbas;3;Bülach;111;Zürcher Unterland;2883
+01.01.2016;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;2916
+01.01.2018;94;Otelfingen;4;Dielsdorf;103;Furttal;2928
+01.01.2020;94;Otelfingen;4;Dielsdorf;103;Furttal;2940
+01.01.2020;60;Höri;3;Bülach;111;Zürcher Unterland;2957
+01.01.2010;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;2957
+01.01.2010;224;Pfungen;10;Uster;109;Winterthur und Umgebung;2962
+01.01.2010;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;2969
+01.01.2019;94;Otelfingen;4;Dielsdorf;103;Furttal;2980
+01.01.2012;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;2987
+01.01.2011;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3000
+01.01.2013;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3002
+01.01.2014;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3005
+01.01.2011;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3014
+01.01.2012;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3019
+01.01.2013;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3021
+01.01.2017;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;3024
+01.01.2015;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3044
+01.01.2018;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;3053
+01.01.2014;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3065
+01.01.2019;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;3072
+01.01.2020;91;Niederweningen;4;Dielsdorf;111;Zürcher Unterland;3089
+01.01.2020;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3099
+01.01.2016;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3106
+01.01.2015;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3113
+01.01.2017;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3140
+01.01.2018;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3146
+01.01.2016;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3159
+01.01.2010;13;Stallikon;1;Affoltern;105;Knonaueramt;3160
+01.01.2010;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3165
+01.01.2019;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3167
+01.01.2010;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3169
+01.01.2018;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3170
+01.01.2012;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3173
+01.01.2017;221;Hettlingen;10;Uster;109;Winterthur und Umgebung;3174
+01.01.2019;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3174
+01.01.2011;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3185
+01.01.2011;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3202
+01.01.2013;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3208
+01.01.2012;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3222
+01.01.2020;88;Neerach;4;Dielsdorf;111;Zürcher Unterland;3225
+01.01.2010;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3225
+01.01.2011;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3229
+01.01.2014;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3236
+01.01.2015;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3255
+01.01.2016;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3264
+01.01.2011;13;Stallikon;1;Affoltern;105;Knonaueramt;3265
+01.01.2013;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3269
+01.01.2012;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3276
+01.01.2014;13;Stallikon;1;Affoltern;105;Knonaueramt;3290
+01.01.2012;13;Stallikon;1;Affoltern;105;Knonaueramt;3297
+01.01.2017;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3301
+01.01.2011;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3309
+01.01.2013;13;Stallikon;1;Affoltern;105;Knonaueramt;3321
+01.01.2010;219;Elsau;10;Uster;109;Winterthur und Umgebung;3326
+01.01.2013;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3345
+01.01.2011;249;Unterengstringen;11;Winterthur;104;Limmattal;3350
+01.01.2012;219;Elsau;10;Uster;109;Winterthur und Umgebung;3351
+01.01.2015;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3358
+01.01.2011;219;Elsau;10;Uster;109;Winterthur und Umgebung;3360
+01.01.2017;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3361
+01.01.2010;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3362
+01.01.2011;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3362
+01.01.2014;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3365
+01.01.2010;249;Unterengstringen;11;Winterthur;104;Limmattal;3367
+01.01.2019;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3369
+01.01.2020;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3370
+01.01.2012;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3372
+01.01.2014;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3376
+01.01.2016;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3381
+01.01.2012;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3382
+01.01.2018;180;Weisslingen;8;Meilen;109;Winterthur und Umgebung;3384
+01.01.2015;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3389
+01.01.2012;249;Unterengstringen;11;Winterthur;104;Limmattal;3393
+01.01.2010;5;Hedingen;1;Affoltern;105;Knonaueramt;3408
+01.01.2013;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3416
+01.01.2013;219;Elsau;10;Uster;109;Winterthur und Umgebung;3420
+01.01.2015;13;Stallikon;1;Affoltern;105;Knonaueramt;3438
+01.01.2012;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3439
+01.01.2016;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3439
+01.01.2011;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3442
+01.01.2013;249;Unterengstringen;11;Winterthur;104;Limmattal;3448
+01.01.2012;27;Feuerthalen;2;Andelfingen;110;Weinland;3459
+01.01.2013;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3459
+01.01.2017;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3460
+01.01.2010;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3461
+01.01.2014;219;Elsau;10;Uster;109;Winterthur und Umgebung;3464
+01.01.2011;27;Feuerthalen;2;Andelfingen;110;Weinland;3464
+01.01.2011;5;Hedingen;1;Affoltern;105;Knonaueramt;3464
+01.01.2011;173;Hittnau;8;Meilen;108;Zürcher Oberland;3464
+01.01.2010;27;Feuerthalen;2;Andelfingen;110;Weinland;3467
+01.01.2010;173;Hittnau;8;Meilen;108;Zürcher Oberland;3467
+01.01.2014;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3469
+01.01.2018;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3471
+01.01.2015;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3476
+01.01.2015;219;Elsau;10;Uster;109;Winterthur und Umgebung;3477
+01.01.2013;27;Feuerthalen;2;Andelfingen;110;Weinland;3483
+01.01.2014;27;Feuerthalen;2;Andelfingen;110;Weinland;3497
+01.01.2012;5;Hedingen;1;Affoltern;105;Knonaueramt;3506
+01.01.2012;173;Hittnau;8;Meilen;108;Zürcher Oberland;3506
+01.01.2018;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3527
+01.01.2013;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3531
+01.01.2016;219;Elsau;10;Uster;109;Winterthur und Umgebung;3533
+01.01.2013;173;Hittnau;8;Meilen;108;Zürcher Oberland;3555
+01.01.2016;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3556
+01.01.2015;27;Feuerthalen;2;Andelfingen;110;Weinland;3564
+01.01.2014;249;Unterengstringen;11;Winterthur;104;Limmattal;3568
+01.01.2020;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3583
+01.01.2016;173;Hittnau;8;Meilen;108;Zürcher Oberland;3584
+01.01.2013;5;Hedingen;1;Affoltern;105;Knonaueramt;3585
+01.01.2016;27;Feuerthalen;2;Andelfingen;110;Weinland;3589
+01.01.2010;84;Dällikon;4;Dielsdorf;103;Furttal;3605
+01.01.2019;27;Feuerthalen;2;Andelfingen;110;Weinland;3605
+01.01.2015;173;Hittnau;8;Meilen;108;Zürcher Oberland;3608
+01.01.2019;101;Steinmaur;4;Dielsdorf;111;Zürcher Unterland;3611
+01.01.2017;173;Hittnau;8;Meilen;108;Zürcher Oberland;3613
+01.01.2017;219;Elsau;10;Uster;109;Winterthur und Umgebung;3616
+01.01.2014;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3618
+01.01.2018;27;Feuerthalen;2;Andelfingen;110;Weinland;3622
+01.01.2015;249;Unterengstringen;11;Winterthur;104;Limmattal;3627
+01.01.2016;13;Stallikon;1;Affoltern;105;Knonaueramt;3629
+01.01.2017;27;Feuerthalen;2;Andelfingen;110;Weinland;3636
+01.01.2019;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3638
+01.01.2014;173;Hittnau;8;Meilen;108;Zürcher Oberland;3640
+01.01.2011;84;Dällikon;4;Dielsdorf;103;Furttal;3641
+01.01.2019;219;Elsau;10;Uster;109;Winterthur und Umgebung;3645
+01.01.2014;5;Hedingen;1;Affoltern;105;Knonaueramt;3645
+01.01.2017;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3646
+01.01.2020;219;Elsau;10;Uster;109;Winterthur und Umgebung;3654
+01.01.2018;219;Elsau;10;Uster;109;Winterthur und Umgebung;3655
+01.01.2015;5;Hedingen;1;Affoltern;105;Knonaueramt;3655
+01.01.2014;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3655
+01.01.2019;173;Hittnau;8;Meilen;108;Zürcher Oberland;3656
+01.01.2016;5;Hedingen;1;Affoltern;105;Knonaueramt;3667
+01.01.2015;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3670
+01.01.2018;173;Hittnau;8;Meilen;108;Zürcher Oberland;3672
+01.01.2018;13;Stallikon;1;Affoltern;105;Knonaueramt;3676
+01.01.2017;5;Hedingen;1;Affoltern;105;Knonaueramt;3678
+01.01.2016;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3684
+01.01.2017;13;Stallikon;1;Affoltern;105;Knonaueramt;3687
+01.01.2018;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3693
+01.01.2020;27;Feuerthalen;2;Andelfingen;110;Weinland;3700
+01.01.2020;116;Grüningen;5;Dietikon;108;Zürcher Oberland;3715
+01.01.2017;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3715
+01.01.2012;84;Dällikon;4;Dielsdorf;103;Furttal;3722
+01.01.2020;173;Hittnau;8;Meilen;108;Zürcher Oberland;3728
+01.01.2018;5;Hedingen;1;Affoltern;105;Knonaueramt;3729
+01.01.2016;249;Unterengstringen;11;Winterthur;104;Limmattal;3744
+01.01.2013;84;Dällikon;4;Dielsdorf;103;Furttal;3746
+01.01.2019;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3749
+01.01.2015;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3750
+01.01.2016;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3750
+01.01.2018;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3753
+01.01.2019;13;Stallikon;1;Affoltern;105;Knonaueramt;3753
+01.01.2019;5;Hedingen;1;Affoltern;105;Knonaueramt;3775
+01.01.2020;13;Stallikon;1;Affoltern;105;Knonaueramt;3785
+01.01.2017;249;Unterengstringen;11;Winterthur;104;Limmattal;3788
+01.01.2020;5;Hedingen;1;Affoltern;105;Knonaueramt;3793
+01.01.2020;4;Hausen a.A.;1;Affoltern;105;Knonaueramt;3797
+01.01.2017;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3831
+01.01.2018;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3845
+01.01.2010;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;3869
+01.01.2018;249;Unterengstringen;11;Winterthur;104;Limmattal;3877
+01.01.2019;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;3887
+01.01.2010;248;Uitikon;11;Winterthur;104;Limmattal;3887
+01.01.2019;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3895
+01.01.2014;84;Dällikon;4;Dielsdorf;103;Furttal;3899
+01.01.2011;72;Winkel;3;Bülach;111;Zürcher Unterland;3903
+01.01.2013;248;Uitikon;11;Winterthur;104;Limmattal;3912
+01.01.2019;249;Unterengstringen;11;Winterthur;104;Limmattal;3924
+01.01.2010;72;Winkel;3;Bülach;111;Zürcher Unterland;3927
+01.01.2011;248;Uitikon;11;Winterthur;104;Limmattal;3936
+01.01.2012;248;Uitikon;11;Winterthur;104;Limmattal;3944
+01.01.2020;224;Pfungen;10;Uster;109;Winterthur und Umgebung;3945
+01.01.2015;84;Dällikon;4;Dielsdorf;103;Furttal;3950
+01.01.2014;248;Uitikon;11;Winterthur;104;Limmattal;3960
+01.01.2020;249;Unterengstringen;11;Winterthur;104;Limmattal;3982
+01.01.2011;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;3992
+01.01.2012;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4009
+01.01.2010;67;Rafz;3;Bülach;111;Zürcher Unterland;4025
+01.01.2015;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4026
+01.01.2013;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4038
+01.01.2011;67;Rafz;3;Bülach;111;Zürcher Unterland;4054
+01.01.2016;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4058
+01.01.2014;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4064
+01.01.2016;84;Dällikon;4;Dielsdorf;103;Furttal;4067
+01.01.2020;196;Mönchaltorf;9;Pfäffikon;108;Zürcher Oberland;4078
+01.01.2012;72;Winkel;3;Bülach;111;Zürcher Unterland;4084
+01.01.2012;67;Rafz;3;Bülach;111;Zürcher Unterland;4085
+01.01.2017;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4092
+01.01.2010;178;Russikon;8;Meilen;108;Zürcher Oberland;4096
+01.01.2017;84;Dällikon;4;Dielsdorf;103;Furttal;4100
+01.01.2015;248;Uitikon;11;Winterthur;104;Limmattal;4107
+01.01.2011;178;Russikon;8;Meilen;108;Zürcher Oberland;4126
+01.01.2012;178;Russikon;8;Meilen;108;Zürcher Oberland;4132
+01.01.2018;84;Dällikon;4;Dielsdorf;103;Furttal;4134
+01.01.2016;248;Uitikon;11;Winterthur;104;Limmattal;4145
+01.01.2013;178;Russikon;8;Meilen;108;Zürcher Oberland;4155
+01.01.2018;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4159
+01.01.2013;67;Rafz;3;Bülach;111;Zürcher Unterland;4162
+01.01.2014;72;Winkel;3;Bülach;111;Zürcher Unterland;4163
+01.01.2019;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4169
+01.01.2019;84;Dällikon;4;Dielsdorf;103;Furttal;4170
+01.01.2013;72;Winkel;3;Bülach;111;Zürcher Unterland;4183
+01.01.2014;178;Russikon;8;Meilen;108;Zürcher Oberland;4197
+01.01.2010;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4199
+01.01.2020;51;Bachenbülach;3;Bülach;111;Zürcher Unterland;4203
+01.01.2010;55;Eglisau;3;Bülach;111;Zürcher Unterland;4213
+01.01.2010;251;Weiningen;11;Winterthur;104;Limmattal;4229
+01.01.2014;67;Rafz;3;Bülach;111;Zürcher Unterland;4235
+01.01.2015;72;Winkel;3;Bülach;111;Zürcher Unterland;4237
+01.01.2017;248;Uitikon;11;Winterthur;104;Limmattal;4239
+01.01.2010;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4245
+01.01.2010;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4260
+01.01.2011;251;Weiningen;11;Winterthur;104;Limmattal;4261
+01.01.2011;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4263
+01.01.2020;84;Dällikon;4;Dielsdorf;103;Furttal;4269
+01.01.2012;251;Weiningen;11;Winterthur;104;Limmattal;4281
+01.01.2015;178;Russikon;8;Meilen;108;Zürcher Oberland;4282
+01.01.2012;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4300
+01.01.2018;248;Uitikon;11;Winterthur;104;Limmattal;4330
+01.01.2013;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4334
+01.01.2013;251;Weiningen;11;Winterthur;104;Limmattal;4340
+01.01.2015;67;Rafz;3;Bülach;111;Zürcher Unterland;4341
+01.01.2016;178;Russikon;8;Meilen;108;Zürcher Oberland;4346
+01.01.2017;178;Russikon;8;Meilen;108;Zürcher Oberland;4355
+01.01.2018;178;Russikon;8;Meilen;108;Zürcher Oberland;4355
+01.01.2016;72;Winkel;3;Bülach;111;Zürcher Unterland;4364
+01.01.2010;294;Elgg;10;Uster;109;Winterthur und Umgebung;4369
+01.01.2010;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4369
+01.01.2011;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4376
+01.01.2019;178;Russikon;8;Meilen;108;Zürcher Oberland;4387
+01.01.2016;67;Rafz;3;Bülach;111;Zürcher Unterland;4389
+01.01.2014;251;Weiningen;11;Winterthur;104;Limmattal;4407
+01.01.2020;178;Russikon;8;Meilen;108;Zürcher Oberland;4409
+01.01.2012;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4414
+01.01.2013;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4420
+01.01.2010;197;Schwerzenbach;9;Pfäffikon;102;Glattal;4431
+01.01.2014;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4441
+01.01.2017;67;Rafz;3;Bülach;111;Zürcher Unterland;4462
+01.01.2011;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4463
+01.01.2014;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4463
+01.01.2015;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4469
+01.01.2011;294;Elgg;10;Uster;109;Winterthur und Umgebung;4478
+01.01.2011;55;Eglisau;3;Bülach;111;Zürcher Unterland;4490
+01.01.2011;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4491
+01.01.2018;72;Winkel;3;Bülach;111;Zürcher Unterland;4507
+01.01.2015;251;Weiningen;11;Winterthur;104;Limmattal;4510
+01.01.2017;72;Winkel;3;Bülach;111;Zürcher Unterland;4511
+01.01.2012;294;Elgg;10;Uster;109;Winterthur und Umgebung;4513
+01.01.2010;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4515
+01.01.2010;297;Bauma;8;Meilen;108;Zürcher Oberland;4522
+01.01.2019;72;Winkel;3;Bülach;111;Zürcher Unterland;4524
+01.01.2011;197;Schwerzenbach;9;Pfäffikon;102;Glattal;4527
+01.01.2011;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4543
+01.01.2012;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4546
+01.01.2012;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4546
+01.01.2011;297;Bauma;8;Meilen;108;Zürcher Oberland;4550
+01.01.2012;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4568
+01.01.2018;67;Rafz;3;Bülach;111;Zürcher Unterland;4568
+01.01.2012;297;Bauma;8;Meilen;108;Zürcher Oberland;4569
+01.01.2010;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4570
+01.01.2012;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4574
+01.01.2013;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4577
+01.01.2014;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4581
+01.01.2011;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4589
+01.01.2013;294;Elgg;10;Uster;109;Winterthur und Umgebung;4595
+01.01.2020;67;Rafz;3;Bülach;111;Zürcher Unterland;4624
+01.01.2014;294;Elgg;10;Uster;109;Winterthur und Umgebung;4627
+01.01.2013;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4631
+01.01.2013;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4633
+01.01.2013;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4642
+01.01.2020;72;Winkel;3;Bülach;111;Zürcher Unterland;4649
+01.01.2013;297;Bauma;8;Meilen;108;Zürcher Oberland;4650
+01.01.2019;67;Rafz;3;Bülach;111;Zürcher Unterland;4650
+01.01.2010;244;Geroldswil;11;Winterthur;104;Limmattal;4652
+01.01.2015;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4659
+01.01.2015;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4661
+01.01.2016;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4662
+01.01.2019;248;Uitikon;11;Winterthur;104;Limmattal;4663
+01.01.2010;10;Obfelden;1;Affoltern;105;Knonaueramt;4682
+01.01.2015;294;Elgg;10;Uster;109;Winterthur und Umgebung;4690
+01.01.2011;244;Geroldswil;11;Winterthur;104;Limmattal;4698
+01.01.2012;55;Eglisau;3;Bülach;111;Zürcher Unterland;4701
+01.01.2014;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4711
+01.01.2014;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4713
+01.01.2014;297;Bauma;8;Meilen;108;Zürcher Oberland;4718
+01.01.2016;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4732
+01.01.2012;197;Schwerzenbach;9;Pfäffikon;102;Glattal;4737
+01.01.2012;244;Geroldswil;11;Winterthur;104;Limmattal;4742
+01.01.2013;244;Geroldswil;11;Winterthur;104;Limmattal;4745
+01.01.2017;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4748
+01.01.2016;251;Weiningen;11;Winterthur;104;Limmattal;4748
+01.01.2015;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4751
+01.01.2017;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4754
+01.01.2011;10;Obfelden;1;Affoltern;105;Knonaueramt;4756
+01.01.2017;251;Weiningen;11;Winterthur;104;Limmattal;4760
+01.01.2020;248;Uitikon;11;Winterthur;104;Limmattal;4799
+01.01.2019;251;Weiningen;11;Winterthur;104;Limmattal;4800
+01.01.2010;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4803
+01.01.2016;294;Elgg;10;Uster;109;Winterthur und Umgebung;4807
+01.01.2018;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4814
+01.01.2018;251;Weiningen;11;Winterthur;104;Limmattal;4816
+01.01.2014;244;Geroldswil;11;Winterthur;104;Limmattal;4822
+01.01.2014;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4824
+01.01.2012;10;Obfelden;1;Affoltern;105;Knonaueramt;4828
+01.01.2015;297;Bauma;8;Meilen;108;Zürcher Oberland;4837
+01.01.2016;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4844
+01.01.2019;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4844
+01.01.2020;157;Oetwil a.S.;7;Horgen;107;Pfannenstiel;4848
+01.01.2020;251;Weiningen;11;Winterthur;104;Limmattal;4857
+01.01.2015;244;Geroldswil;11;Winterthur;104;Limmattal;4858
+01.01.2013;10;Obfelden;1;Affoltern;105;Knonaueramt;4861
+01.01.2017;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;4865
+01.01.2019;297;Bauma;8;Meilen;108;Zürcher Oberland;4870
+01.01.2020;297;Bauma;8;Meilen;108;Zürcher Oberland;4879
+01.01.2011;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4880
+01.01.2016;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4889
+01.01.2018;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4890
+01.01.2019;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4891
+01.01.2016;297;Bauma;8;Meilen;108;Zürcher Oberland;4896
+01.01.2018;294;Elgg;10;Uster;109;Winterthur und Umgebung;4898
+01.01.2013;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4900
+01.01.2017;294;Elgg;10;Uster;109;Winterthur und Umgebung;4903
+01.01.2017;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4917
+01.01.2017;244;Geroldswil;11;Winterthur;104;Limmattal;4918
+01.01.2015;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;4920
+01.01.2016;244;Geroldswil;11;Winterthur;104;Limmattal;4923
+01.01.2017;297;Bauma;8;Meilen;108;Zürcher Oberland;4925
+01.01.2014;10;Obfelden;1;Affoltern;105;Knonaueramt;4925
+01.01.2012;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4928
+01.01.2019;244;Geroldswil;11;Winterthur;104;Limmattal;4928
+01.01.2013;55;Eglisau;3;Bülach;111;Zürcher Unterland;4934
+01.01.2018;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4934
+01.01.2019;294;Elgg;10;Uster;109;Winterthur und Umgebung;4935
+01.01.2010;137;Oberrieden;6;Hinwil;106;Zimmerberg;4936
+01.01.2020;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4937
+01.01.2018;244;Geroldswil;11;Winterthur;104;Limmattal;4942
+01.01.2015;58;Glattfelden;3;Bülach;111;Zürcher Unterland;4945
+01.01.2020;294;Elgg;10;Uster;109;Winterthur und Umgebung;4951
+01.01.2013;197;Schwerzenbach;9;Pfäffikon;102;Glattal;4953
+01.01.2015;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4958
+01.01.2018;297;Bauma;8;Meilen;108;Zürcher Oberland;4961
+01.01.2014;55;Eglisau;3;Bülach;111;Zürcher Unterland;4961
+01.01.2013;137;Oberrieden;6;Hinwil;106;Zimmerberg;4961
+01.01.2012;137;Oberrieden;6;Hinwil;106;Zimmerberg;4965
+01.01.2011;137;Oberrieden;6;Hinwil;106;Zimmerberg;4969
+01.01.2020;228;Turbenthal;10;Uster;109;Winterthur und Umgebung;4989
+01.01.2019;89;Niederglatt;4;Dielsdorf;111;Zürcher Unterland;4991
+01.01.2014;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;4993
+01.01.2019;137;Oberrieden;6;Hinwil;106;Zimmerberg;4996
+01.01.2014;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5003
+01.01.2010;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5007
+01.01.2015;10;Obfelden;1;Affoltern;105;Knonaueramt;5007
+01.01.2018;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;5009
+01.01.2014;137;Oberrieden;6;Hinwil;106;Zimmerberg;5016
+01.01.2016;137;Oberrieden;6;Hinwil;106;Zimmerberg;5017
+01.01.2015;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5020
+01.01.2015;55;Eglisau;3;Bülach;111;Zürcher Unterland;5021
+01.01.2017;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;5026
+01.01.2015;137;Oberrieden;6;Hinwil;106;Zimmerberg;5027
+01.01.2016;58;Glattfelden;3;Bülach;111;Zürcher Unterland;5041
+01.01.2016;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;5046
+01.01.2020;244;Geroldswil;11;Winterthur;104;Limmattal;5046
+01.01.2020;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;5049
+01.01.2019;111;Bäretswil;5;Dietikon;108;Zürcher Oberland;5055
+01.01.2017;137;Oberrieden;6;Hinwil;106;Zimmerberg;5071
+01.01.2016;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5072
+01.01.2011;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5080
+01.01.2018;137;Oberrieden;6;Hinwil;106;Zimmerberg;5085
+01.01.2010;160;Zumikon;7;Horgen;107;Pfannenstiel;5087
+01.01.2017;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5088
+01.01.2010;194;Greifensee;9;Pfäffikon;102;Glattal;5094
+01.01.2018;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;5094
+01.01.2017;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;5097
+01.01.2016;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;5105
+01.01.2018;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5108
+01.01.2020;137;Oberrieden;6;Hinwil;106;Zimmerberg;5118
+01.01.2016;10;Obfelden;1;Affoltern;105;Knonaueramt;5119
+01.01.2017;160;Zumikon;7;Horgen;107;Pfannenstiel;5120
+01.01.2011;194;Greifensee;9;Pfäffikon;102;Glattal;5122
+01.01.2014;160;Zumikon;7;Horgen;107;Pfannenstiel;5132
+01.01.2016;160;Zumikon;7;Horgen;107;Pfannenstiel;5142
+01.01.2011;160;Zumikon;7;Horgen;107;Pfannenstiel;5147
+01.01.2016;55;Eglisau;3;Bülach;111;Zürcher Unterland;5148
+01.01.2012;160;Zumikon;7;Horgen;107;Pfannenstiel;5162
+01.01.2010;3;Bonstetten;1;Affoltern;105;Knonaueramt;5164
+01.01.2013;160;Zumikon;7;Horgen;107;Pfannenstiel;5164
+01.01.2011;3;Bonstetten;1;Affoltern;105;Knonaueramt;5166
+01.01.2019;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5168
+01.01.2015;160;Zumikon;7;Horgen;107;Pfannenstiel;5168
+01.01.2017;55;Eglisau;3;Bülach;111;Zürcher Unterland;5170
+01.01.2010;64;Nürensdorf;3;Bülach;102;Glattal;5170
+01.01.2018;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;5172
+01.01.2020;197;Schwerzenbach;9;Pfäffikon;102;Glattal;5183
+01.01.2017;58;Glattfelden;3;Bülach;111;Zürcher Unterland;5189
+01.01.2012;3;Bonstetten;1;Affoltern;105;Knonaueramt;5191
+01.01.2018;58;Glattfelden;3;Bülach;111;Zürcher Unterland;5195
+01.01.2019;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;5199
+01.01.2018;55;Eglisau;3;Bülach;111;Zürcher Unterland;5207
+01.01.2012;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5207
+01.01.2012;194;Greifensee;9;Pfäffikon;102;Glattal;5214
+01.01.2019;58;Glattfelden;3;Bülach;111;Zürcher Unterland;5218
+01.01.2011;64;Nürensdorf;3;Bülach;102;Glattal;5224
+01.01.2010;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5224
+01.01.2010;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5227
+01.01.2019;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;5235
+01.01.2010;151;Erlenbach;7;Horgen;107;Pfannenstiel;5247
+01.01.2013;3;Bonstetten;1;Affoltern;105;Knonaueramt;5254
+01.01.2012;64;Nürensdorf;3;Bülach;102;Glattal;5261
+01.01.2011;151;Erlenbach;7;Horgen;107;Pfannenstiel;5266
+01.01.2018;160;Zumikon;7;Horgen;107;Pfannenstiel;5266
+01.01.2020;58;Glattfelden;3;Bülach;111;Zürcher Unterland;5273
+01.01.2020;14;Wettswil a.A.;1;Affoltern;105;Knonaueramt;5278
+01.01.2014;3;Bonstetten;1;Affoltern;105;Knonaueramt;5279
+01.01.2014;194;Greifensee;9;Pfäffikon;102;Glattal;5300
+01.01.2020;194;Greifensee;9;Pfäffikon;102;Glattal;5302
+01.01.2013;194;Greifensee;9;Pfäffikon;102;Glattal;5305
+01.01.2013;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5306
+01.01.2011;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5310
+01.01.2013;64;Nürensdorf;3;Bülach;102;Glattal;5311
+01.01.2012;151;Erlenbach;7;Horgen;107;Pfannenstiel;5318
+01.01.2015;3;Bonstetten;1;Affoltern;105;Knonaueramt;5322
+01.01.2019;55;Eglisau;3;Bülach;111;Zürcher Unterland;5335
+01.01.2013;151;Erlenbach;7;Horgen;107;Pfannenstiel;5336
+01.01.2017;10;Obfelden;1;Affoltern;105;Knonaueramt;5340
+01.01.2017;194;Greifensee;9;Pfäffikon;102;Glattal;5345
+01.01.2018;194;Greifensee;9;Pfäffikon;102;Glattal;5350
+01.01.2010;231;Zell;10;Uster;109;Winterthur und Umgebung;5357
+01.01.2015;194;Greifensee;9;Pfäffikon;102;Glattal;5360
+01.01.2016;194;Greifensee;9;Pfäffikon;102;Glattal;5366
+01.01.2020;9;Mettmenstetten;1;Affoltern;105;Knonaueramt;5378
+01.01.2019;194;Greifensee;9;Pfäffikon;102;Glattal;5379
+01.01.2015;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5379
+01.01.2014;64;Nürensdorf;3;Bülach;102;Glattal;5383
+01.01.2011;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5385
+01.01.2014;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5386
+01.01.2012;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5418
+01.01.2012;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5419
+01.01.2016;3;Bonstetten;1;Affoltern;105;Knonaueramt;5422
+01.01.2011;231;Zell;10;Uster;109;Winterthur und Umgebung;5426
+01.01.2013;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5438
+01.01.2014;151;Erlenbach;7;Horgen;107;Pfannenstiel;5443
+01.01.2015;64;Nürensdorf;3;Bülach;102;Glattal;5464
+01.01.2016;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5470
+01.01.2015;151;Erlenbach;7;Horgen;107;Pfannenstiel;5472
+01.01.2019;160;Zumikon;7;Horgen;107;Pfannenstiel;5481
+01.01.2012;231;Zell;10;Uster;109;Winterthur und Umgebung;5485
+01.01.2017;3;Bonstetten;1;Affoltern;105;Knonaueramt;5491
+01.01.2014;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5498
+01.01.2020;55;Eglisau;3;Bülach;111;Zürcher Unterland;5499
+01.01.2015;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5500
+01.01.2016;151;Erlenbach;7;Horgen;107;Pfannenstiel;5502
+01.01.2010;83;Buchs;4;Dielsdorf;103;Furttal;5522
+01.01.2017;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5533
+01.01.2016;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5537
+01.01.2018;3;Bonstetten;1;Affoltern;105;Knonaueramt;5539
+01.01.2013;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5542
+01.01.2017;151;Erlenbach;7;Horgen;107;Pfannenstiel;5567
+01.01.2014;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5573
+01.01.2020;160;Zumikon;7;Horgen;107;Pfannenstiel;5573
+01.01.2019;3;Bonstetten;1;Affoltern;105;Knonaueramt;5576
+01.01.2020;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5577
+01.01.2018;10;Obfelden;1;Affoltern;105;Knonaueramt;5580
+01.01.2016;64;Nürensdorf;3;Bülach;102;Glattal;5581
+01.01.2019;151;Erlenbach;7;Horgen;107;Pfannenstiel;5586
+01.01.2019;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5589
+01.01.2017;64;Nürensdorf;3;Bülach;102;Glattal;5591
+01.01.2018;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5592
+01.01.2019;64;Nürensdorf;3;Bülach;102;Glattal;5593
+01.01.2020;151;Erlenbach;7;Horgen;107;Pfannenstiel;5600
+01.01.2018;151;Erlenbach;7;Horgen;107;Pfannenstiel;5605
+01.01.2020;3;Bonstetten;1;Affoltern;105;Knonaueramt;5610
+01.01.2018;64;Nürensdorf;3;Bülach;102;Glattal;5612
+01.01.2020;64;Nürensdorf;3;Bülach;102;Glattal;5616
+01.01.2017;176;Lindau;8;Meilen;109;Winterthur und Umgebung;5621
+01.01.2013;231;Zell;10;Uster;109;Winterthur und Umgebung;5637
+01.01.2010;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5646
+01.01.2015;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5664
+01.01.2018;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5672
+01.01.2014;231;Zell;10;Uster;109;Winterthur und Umgebung;5689
+01.01.2015;231;Zell;10;Uster;109;Winterthur und Umgebung;5690
+01.01.2011;83;Buchs;4;Dielsdorf;103;Furttal;5692
+01.01.2019;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5719
+01.01.2016;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5720
+01.01.2019;10;Obfelden;1;Affoltern;105;Knonaueramt;5725
+01.01.2010;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5728
+01.01.2016;231;Zell;10;Uster;109;Winterthur und Umgebung;5745
+01.01.2020;223;Neftenbach;10;Uster;109;Winterthur und Umgebung;5753
+01.01.2011;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5767
+01.01.2020;10;Obfelden;1;Affoltern;105;Knonaueramt;5778
+01.01.2012;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5787
+01.01.2017;139;Rüschlikon;6;Hinwil;106;Zimmerberg;5830
+01.01.2011;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5837
+01.01.2010;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;5853
+01.01.2010;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;5862
+01.01.2013;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5871
+01.01.2010;242;Birmensdorf;11;Winterthur;104;Limmattal;5876
+01.01.2013;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5879
+01.01.2010;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;5885
+01.01.2011;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;5889
+01.01.2014;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5909
+01.01.2015;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5917
+01.01.2011;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;5921
+01.01.2011;242;Birmensdorf;11;Winterthur;104;Limmattal;5922
+01.01.2017;231;Zell;10;Uster;109;Winterthur und Umgebung;5929
+01.01.2012;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5932
+01.01.2017;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5940
+01.01.2014;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5948
+01.01.2012;242;Birmensdorf;11;Winterthur;104;Limmattal;5951
+01.01.2019;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5960
+01.01.2016;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5962
+01.01.2020;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5966
+01.01.2012;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;5977
+01.01.2011;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;5979
+01.01.2015;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;5981
+01.01.2018;86;Dielsdorf;4;Dielsdorf;111;Zürcher Unterland;5988
+01.01.2018;231;Zell;10;Uster;109;Winterthur und Umgebung;6017
+01.01.2018;139;Rüschlikon;6;Hinwil;106;Zimmerberg;6028
+01.01.2013;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6039
+01.01.2016;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;6042
+01.01.2012;83;Buchs;4;Dielsdorf;103;Furttal;6047
+01.01.2013;242;Birmensdorf;11;Winterthur;104;Limmattal;6056
+01.01.2012;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6060
+01.01.2010;152;Herrliberg;7;Horgen;107;Pfannenstiel;6069
+01.01.2019;139;Rüschlikon;6;Hinwil;106;Zimmerberg;6103
+01.01.2014;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6114
+01.01.2011;152;Herrliberg;7;Horgen;107;Pfannenstiel;6119
+01.01.2020;139;Rüschlikon;6;Hinwil;106;Zimmerberg;6120
+01.01.2012;152;Herrliberg;7;Horgen;107;Pfannenstiel;6127
+01.01.2017;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;6145
+01.01.2014;83;Buchs;4;Dielsdorf;103;Furttal;6152
+01.01.2018;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;6158
+01.01.2013;152;Herrliberg;7;Horgen;107;Pfannenstiel;6159
+01.01.2014;242;Birmensdorf;11;Winterthur;104;Limmattal;6167
+01.01.2013;83;Buchs;4;Dielsdorf;103;Furttal;6174
+01.01.2019;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;6191
+01.01.2012;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6221
+01.01.2020;159;Uetikon a.S.;7;Horgen;107;Pfannenstiel;6222
+01.01.2015;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6226
+01.01.2015;242;Birmensdorf;11;Winterthur;104;Limmattal;6235
+01.01.2014;152;Herrliberg;7;Horgen;107;Pfannenstiel;6240
+01.01.2013;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6262
+01.01.2015;83;Buchs;4;Dielsdorf;103;Furttal;6269
+01.01.2016;242;Birmensdorf;11;Winterthur;104;Limmattal;6274
+01.01.2016;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6281
+01.01.2016;152;Herrliberg;7;Horgen;107;Pfannenstiel;6286
+01.01.2015;152;Herrliberg;7;Horgen;107;Pfannenstiel;6289
+01.01.2017;152;Herrliberg;7;Horgen;107;Pfannenstiel;6290
+01.01.2015;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6292
+01.01.2019;231;Zell;10;Uster;109;Winterthur und Umgebung;6295
+01.01.2017;83;Buchs;4;Dielsdorf;103;Furttal;6303
+01.01.2014;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6309
+01.01.2016;83;Buchs;4;Dielsdorf;103;Furttal;6320
+01.01.2016;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6333
+01.01.2017;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6355
+01.01.2017;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6378
+01.01.2010;245;Oberengstringen;11;Winterthur;104;Limmattal;6381
+01.01.2011;245;Oberengstringen;11;Winterthur;104;Limmattal;6384
+01.01.2017;242;Birmensdorf;11;Winterthur;104;Limmattal;6385
+01.01.2018;83;Buchs;4;Dielsdorf;103;Furttal;6390
+01.01.2018;152;Herrliberg;7;Horgen;107;Pfannenstiel;6391
+01.01.2012;245;Oberengstringen;11;Winterthur;104;Limmattal;6397
+01.01.2018;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6421
+01.01.2020;231;Zell;10;Uster;109;Winterthur und Umgebung;6422
+01.01.2013;245;Oberengstringen;11;Winterthur;104;Limmattal;6444
+01.01.2019;152;Herrliberg;7;Horgen;107;Pfannenstiel;6458
+01.01.2013;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6460
+01.01.2019;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6480
+01.01.2018;242;Birmensdorf;11;Winterthur;104;Limmattal;6497
+01.01.2018;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6512
+01.01.2014;245;Oberengstringen;11;Winterthur;104;Limmattal;6539
+01.01.2015;245;Oberengstringen;11;Winterthur;104;Limmattal;6549
+01.01.2020;83;Buchs;4;Dielsdorf;103;Furttal;6554
+01.01.2019;83;Buchs;4;Dielsdorf;103;Furttal;6560
+01.01.2016;245;Oberengstringen;11;Winterthur;104;Limmattal;6563
+01.01.2020;152;Herrliberg;7;Horgen;107;Pfannenstiel;6566
+01.01.2017;245;Oberengstringen;11;Winterthur;104;Limmattal;6569
+01.01.2018;245;Oberengstringen;11;Winterthur;104;Limmattal;6570
+01.01.2010;112;Bubikon;5;Dietikon;108;Zürcher Oberland;6573
+01.01.2020;172;Fehraltorf;8;Meilen;108;Zürcher Oberland;6573
+01.01.2019;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6601
+01.01.2014;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6632
+01.01.2020;298;Wiesendangen;10;Uster;109;Winterthur und Umgebung;6636
+01.01.2010;113;Dürnten;5;Dietikon;108;Zürcher Oberland;6665
+01.01.2010;97;Rümlang;4;Dielsdorf;102;Glattal;6698
+01.01.2019;242;Birmensdorf;11;Winterthur;104;Limmattal;6714
+01.01.2020;245;Oberengstringen;11;Winterthur;104;Limmattal;6724
+01.01.2019;245;Oberengstringen;11;Winterthur;104;Limmattal;6739
+01.01.2011;112;Bubikon;5;Dietikon;108;Zürcher Oberland;6771
+01.01.2015;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6789
+01.01.2012;112;Bubikon;5;Dietikon;108;Zürcher Oberland;6856
+01.01.2020;242;Birmensdorf;11;Winterthur;104;Limmattal;6893
+01.01.2011;97;Rümlang;4;Dielsdorf;102;Glattal;6924
+01.01.2013;112;Bubikon;5;Dietikon;108;Zürcher Oberland;6936
+01.01.2016;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6940
+01.01.2017;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;6964
+01.01.2014;112;Bubikon;5;Dietikon;108;Zürcher Oberland;6979
+01.01.2012;97;Rümlang;4;Dielsdorf;102;Glattal;7006
+01.01.2015;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7027
+01.01.2010;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7050
+01.01.2010;54;Dietlikon;3;Bülach;102;Glattal;7053
+01.01.2011;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7055
+01.01.2011;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7062
+01.01.2018;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;7088
+01.01.2011;54;Dietlikon;3;Bülach;102;Glattal;7097
+01.01.2016;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7119
+01.01.2012;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7128
+01.01.2013;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7157
+01.01.2012;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7159
+01.01.2012;54;Dietlikon;3;Bülach;102;Glattal;7164
+01.01.2013;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7186
+01.01.2017;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7194
+01.01.2011;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7197
+01.01.2015;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7198
+01.01.2019;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;7208
+01.01.2013;97;Rümlang;4;Dielsdorf;102;Glattal;7217
+01.01.2013;54;Dietlikon;3;Bülach;102;Glattal;7219
+01.01.2012;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7223
+01.01.2014;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7230
+01.01.2016;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7243
+01.01.2010;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7250
+01.01.2017;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7291
+01.01.2013;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7308
+01.01.2018;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7320
+01.01.2018;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7335
+01.01.2019;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7349
+01.01.2020;92;Oberglatt;4;Dielsdorf;111;Zürcher Unterland;7361
+01.01.2020;112;Bubikon;5;Dietikon;108;Zürcher Oberland;7367
+01.01.2014;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7374
+01.01.2015;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7392
+01.01.2014;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7413
+01.01.2020;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7422
+01.01.2019;227;Seuzach;10;Uster;109;Winterthur und Umgebung;7427
+01.01.2015;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7449
+01.01.2010;135;Kilchberg;6;Hinwil;106;Zimmerberg;7454
+01.01.2016;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7470
+01.01.2016;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7476
+01.01.2017;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7500
+01.01.2017;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7518
+01.01.2018;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7522
+01.01.2010;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7539
+01.01.2011;135;Kilchberg;6;Hinwil;106;Zimmerberg;7541
+01.01.2014;97;Rümlang;4;Dielsdorf;102;Glattal;7541
+01.01.2016;54;Dietlikon;3;Bülach;102;Glattal;7551
+01.01.2014;54;Dietlikon;3;Bülach;102;Glattal;7564
+01.01.2012;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7573
+01.01.2011;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7588
+01.01.2018;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7590
+01.01.2013;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7593
+01.01.2019;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7594
+01.01.2015;54;Dietlikon;3;Bülach;102;Glattal;7605
+01.01.2014;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7632
+01.01.2012;135;Kilchberg;6;Hinwil;106;Zimmerberg;7641
+01.01.2020;113;Dürnten;5;Dietikon;108;Zürcher Oberland;7645
+01.01.2017;54;Dietlikon;3;Bülach;102;Glattal;7685
+01.01.2019;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7727
+01.01.2015;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7742
+01.01.2015;97;Rümlang;4;Dielsdorf;102;Glattal;7752
+01.01.2013;135;Kilchberg;6;Hinwil;106;Zimmerberg;7767
+01.01.2018;54;Dietlikon;3;Bülach;102;Glattal;7768
+01.01.2019;54;Dietlikon;3;Bülach;102;Glattal;7839
+01.01.2014;135;Kilchberg;6;Hinwil;106;Zimmerberg;7853
+01.01.2020;54;Dietlikon;3;Bülach;102;Glattal;7867
+01.01.2016;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7874
+01.01.2020;136;Langnau a.A.;6;Hinwil;106;Zimmerberg;7880
+01.01.2017;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7892
+01.01.2018;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7917
+01.01.2017;97;Rümlang;4;Dielsdorf;102;Glattal;7929
+01.01.2019;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7966
+01.01.2010;193;Fällanden;9;Pfäffikon;102;Glattal;7971
+01.01.2020;200;Wangen-Brüttisellen;9;Pfäffikon;102;Glattal;7990
+01.01.2016;97;Rümlang;4;Dielsdorf;102;Glattal;7991
+01.01.2010;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;7994
+01.01.2010;192;Egg;9;Pfäffikon;107;Pfannenstiel;7997
+01.01.2011;193;Fällanden;9;Pfäffikon;102;Glattal;8062
+01.01.2012;193;Fällanden;9;Pfäffikon;102;Glattal;8067
+01.01.2015;135;Kilchberg;6;Hinwil;106;Zimmerberg;8077
+01.01.2011;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8089
+01.01.2012;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8100
+01.01.2013;193;Fällanden;9;Pfäffikon;102;Glattal;8139
+01.01.2018;97;Rümlang;4;Dielsdorf;102;Glattal;8159
+01.01.2014;193;Fällanden;9;Pfäffikon;102;Glattal;8182
+01.01.2013;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8182
+01.01.2011;192;Egg;9;Pfäffikon;107;Pfannenstiel;8214
+01.01.2019;97;Rümlang;4;Dielsdorf;102;Glattal;8229
+01.01.2013;192;Egg;9;Pfäffikon;107;Pfannenstiel;8273
+01.01.2020;97;Rümlang;4;Dielsdorf;102;Glattal;8281
+01.01.2012;192;Egg;9;Pfäffikon;107;Pfannenstiel;8302
+01.01.2016;135;Kilchberg;6;Hinwil;106;Zimmerberg;8320
+01.01.2014;192;Egg;9;Pfäffikon;107;Pfannenstiel;8330
+01.01.2015;193;Fällanden;9;Pfäffikon;102;Glattal;8340
+01.01.2015;192;Egg;9;Pfäffikon;107;Pfannenstiel;8378
+01.01.2016;192;Egg;9;Pfäffikon;107;Pfannenstiel;8395
+01.01.2016;193;Fällanden;9;Pfäffikon;102;Glattal;8401
+01.01.2014;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8420
+01.01.2017;135;Kilchberg;6;Hinwil;106;Zimmerberg;8437
+01.01.2017;192;Egg;9;Pfäffikon;107;Pfannenstiel;8442
+01.01.2015;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8463
+01.01.2010;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;8526
+01.01.2018;192;Egg;9;Pfäffikon;107;Pfannenstiel;8574
+01.01.2017;193;Fällanden;9;Pfäffikon;102;Glattal;8575
+01.01.2011;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;8594
+01.01.2016;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8595
+01.01.2017;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8595
+01.01.2018;193;Fällanden;9;Pfäffikon;102;Glattal;8651
+01.01.2019;193;Fällanden;9;Pfäffikon;102;Glattal;8678
+01.01.2012;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;8710
+01.01.2018;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8732
+01.01.2019;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8759
+01.01.2019;192;Egg;9;Pfäffikon;107;Pfannenstiel;8786
+01.01.2020;153;Hombrechtikon;7;Horgen;107;Pfannenstiel;8814
+01.01.2018;135;Kilchberg;6;Hinwil;106;Zimmerberg;8818
+01.01.2020;192;Egg;9;Pfäffikon;107;Pfannenstiel;8820
+01.01.2013;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;8845
+01.01.2010;56;Embrach;3;Bülach;111;Zürcher Unterland;8856
+01.01.2011;56;Embrach;3;Bülach;111;Zürcher Unterland;8915
+01.01.2020;193;Fällanden;9;Pfäffikon;102;Glattal;8918
+01.01.2019;135;Kilchberg;6;Hinwil;106;Zimmerberg;8925
+01.01.2013;56;Embrach;3;Bülach;111;Zürcher Unterland;8926
+01.01.2010;120;Wald;5;Dietikon;108;Zürcher Oberland;8961
+01.01.2012;56;Embrach;3;Bülach;111;Zürcher Unterland;8975
+01.01.2010;250;Urdorf;11;Winterthur;104;Limmattal;8979
+01.01.2014;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9028
+01.01.2014;56;Embrach;3;Bülach;111;Zürcher Unterland;9084
+01.01.2015;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9085
+01.01.2015;56;Embrach;3;Bülach;111;Zürcher Unterland;9143
+01.01.2016;56;Embrach;3;Bülach;111;Zürcher Unterland;9161
+01.01.2016;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9168
+01.01.2017;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9188
+01.01.2020;135;Kilchberg;6;Hinwil;106;Zimmerberg;9189
+01.01.2011;120;Wald;5;Dietikon;108;Zürcher Oberland;9201
+01.01.2018;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9248
+01.01.2011;250;Urdorf;11;Winterthur;104;Limmattal;9249
+01.01.2013;120;Wald;5;Dietikon;108;Zürcher Oberland;9314
+01.01.2012;120;Wald;5;Dietikon;108;Zürcher Oberland;9321
+01.01.2019;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9340
+01.01.2019;56;Embrach;3;Bülach;111;Zürcher Unterland;9410
+01.01.2017;56;Embrach;3;Bülach;111;Zürcher Unterland;9419
+01.01.2015;120;Wald;5;Dietikon;108;Zürcher Oberland;9421
+01.01.2018;56;Embrach;3;Bülach;111;Zürcher Unterland;9434
+01.01.2020;90;Niederhasli;4;Dielsdorf;111;Zürcher Unterland;9446
+01.01.2014;120;Wald;5;Dietikon;108;Zürcher Oberland;9446
+01.01.2012;250;Urdorf;11;Winterthur;104;Limmattal;9456
+01.01.2013;250;Urdorf;11;Winterthur;104;Limmattal;9505
+01.01.2010;195;Maur;9;Pfäffikon;102;Glattal;9517
+01.01.2011;195;Maur;9;Pfäffikon;102;Glattal;9531
+01.01.2010;115;Gossau;5;Dietikon;108;Zürcher Oberland;9539
+01.01.2016;120;Wald;5;Dietikon;108;Zürcher Oberland;9591
+01.01.2020;56;Embrach;3;Bülach;111;Zürcher Unterland;9600
+01.01.2012;195;Maur;9;Pfäffikon;102;Glattal;9610
+01.01.2014;250;Urdorf;11;Winterthur;104;Limmattal;9611
+01.01.2016;250;Urdorf;11;Winterthur;104;Limmattal;9641
+01.01.2011;115;Gossau;5;Dietikon;108;Zürcher Oberland;9653
+01.01.2015;250;Urdorf;11;Winterthur;104;Limmattal;9673
+01.01.2013;115;Gossau;5;Dietikon;108;Zürcher Oberland;9692
+01.01.2013;195;Maur;9;Pfäffikon;102;Glattal;9700
+01.01.2012;115;Gossau;5;Dietikon;108;Zürcher Oberland;9709
+01.01.2014;195;Maur;9;Pfäffikon;102;Glattal;9711
+01.01.2015;115;Gossau;5;Dietikon;108;Zürcher Oberland;9744
+01.01.2014;115;Gossau;5;Dietikon;108;Zürcher Oberland;9756
+01.01.2017;120;Wald;5;Dietikon;108;Zürcher Oberland;9758
+01.01.2017;250;Urdorf;11;Winterthur;104;Limmattal;9768
+01.01.2016;115;Gossau;5;Dietikon;108;Zürcher Oberland;9791
+01.01.2018;250;Urdorf;11;Winterthur;104;Limmattal;9833
+01.01.2015;195;Maur;9;Pfäffikon;102;Glattal;9873
+01.01.2018;120;Wald;5;Dietikon;108;Zürcher Oberland;9926
+01.01.2017;115;Gossau;5;Dietikon;108;Zürcher Oberland;9937
+01.01.2019;250;Urdorf;11;Winterthur;104;Limmattal;9975
+01.01.2020;250;Urdorf;11;Winterthur;104;Limmattal;10009
+01.01.2016;195;Maur;9;Pfäffikon;102;Glattal;10039
+01.01.2019;120;Wald;5;Dietikon;108;Zürcher Oberland;10078
+01.01.2017;195;Maur;9;Pfäffikon;102;Glattal;10148
+01.01.2020;120;Wald;5;Dietikon;108;Zürcher Oberland;10182
+01.01.2018;115;Gossau;5;Dietikon;108;Zürcher Oberland;10198
+01.01.2018;195;Maur;9;Pfäffikon;102;Glattal;10204
+01.01.2019;115;Gossau;5;Dietikon;108;Zürcher Oberland;10254
+01.01.2020;115;Gossau;5;Dietikon;108;Zürcher Oberland;10257
+01.01.2010;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10364
+01.01.2011;155;Männedorf;7;Horgen;107;Pfannenstiel;10434
+01.01.2010;155;Männedorf;7;Horgen;107;Pfannenstiel;10437
+01.01.2012;155;Männedorf;7;Horgen;107;Pfannenstiel;10462
+01.01.2019;195;Maur;9;Pfäffikon;102;Glattal;10462
+01.01.2013;155;Männedorf;7;Horgen;107;Pfannenstiel;10473
+01.01.2014;155;Männedorf;7;Horgen;107;Pfannenstiel;10522
+01.01.2011;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10544
+01.01.2015;155;Männedorf;7;Horgen;107;Pfannenstiel;10588
+01.01.2012;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10602
+01.01.2010;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;10602
+01.01.2013;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10754
+01.01.2020;195;Maur;9;Pfäffikon;102;Glattal;10778
+01.01.2014;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10779
+01.01.2016;155;Männedorf;7;Horgen;107;Pfannenstiel;10799
+01.01.2011;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;10817
+01.01.2015;117;Hinwil;5;Dietikon;108;Zürcher Oberland;10830
+01.01.2017;155;Männedorf;7;Horgen;107;Pfannenstiel;10913
+01.01.2012;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11012
+01.01.2010;52;Bassersdorf;3;Bülach;102;Glattal;11052
+01.01.2010;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11063
+01.01.2016;117;Hinwil;5;Dietikon;108;Zürcher Oberland;11073
+01.01.2013;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11089
+01.01.2018;117;Hinwil;5;Dietikon;108;Zürcher Oberland;11117
+01.01.2011;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11140
+01.01.2011;52;Bassersdorf;3;Bülach;102;Glattal;11157
+01.01.2017;117;Hinwil;5;Dietikon;108;Zürcher Oberland;11179
+01.01.2018;155;Männedorf;7;Horgen;107;Pfannenstiel;11207
+01.01.2012;52;Bassersdorf;3;Bülach;102;Glattal;11229
+01.01.2014;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11260
+01.01.2012;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11265
+01.01.2019;117;Hinwil;5;Dietikon;108;Zürcher Oberland;11271
+01.01.2019;155;Männedorf;7;Horgen;107;Pfannenstiel;11317
+01.01.2013;52;Bassersdorf;3;Bülach;102;Glattal;11318
+01.01.2013;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11342
+01.01.2020;117;Hinwil;5;Dietikon;108;Zürcher Oberland;11344
+01.01.2014;52;Bassersdorf;3;Bülach;102;Glattal;11371
+01.01.2020;155;Männedorf;7;Horgen;107;Pfannenstiel;11389
+01.01.2015;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11439
+01.01.2014;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11540
+01.01.2016;52;Bassersdorf;3;Bülach;102;Glattal;11551
+01.01.2015;52;Bassersdorf;3;Bülach;102;Glattal;11561
+01.01.2017;52;Bassersdorf;3;Bülach;102;Glattal;11593
+01.01.2018;52;Bassersdorf;3;Bülach;102;Glattal;11668
+01.01.2015;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11695
+01.01.2016;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11728
+01.01.2011;118;Rüti;5;Dietikon;108;Zürcher Oberland;11802
+01.01.2017;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11817
+01.01.2019;52;Bassersdorf;3;Bülach;102;Glattal;11832
+01.01.2016;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;11868
+01.01.2018;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;11899
+01.01.2012;118;Rüti;5;Dietikon;108;Zürcher Oberland;11928
+01.01.2013;118;Rüti;5;Dietikon;108;Zürcher Oberland;11928
+01.01.2020;52;Bassersdorf;3;Bülach;102;Glattal;11931
+01.01.2010;118;Rüti;5;Dietikon;108;Zürcher Oberland;11934
+01.01.2014;118;Rüti;5;Dietikon;108;Zürcher Oberland;11979
+01.01.2015;118;Rüti;5;Dietikon;108;Zürcher Oberland;12011
+01.01.2016;118;Rüti;5;Dietikon;108;Zürcher Oberland;12012
+01.01.2010;161;Zollikon;7;Horgen;107;Pfannenstiel;12033
+01.01.2017;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;12080
+01.01.2017;118;Rüti;5;Dietikon;108;Zürcher Oberland;12098
+01.01.2011;161;Zollikon;7;Horgen;107;Pfannenstiel;12099
+01.01.2018;118;Rüti;5;Dietikon;108;Zürcher Oberland;12124
+01.01.2019;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;12135
+01.01.2012;161;Zollikon;7;Horgen;107;Pfannenstiel;12152
+01.01.2020;177;Pfäffikon;8;Meilen;108;Zürcher Oberland;12180
+01.01.2018;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;12201
+01.01.2020;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;12246
+01.01.2019;118;Rüti;5;Dietikon;108;Zürcher Oberland;12254
+01.01.2019;2;Affoltern a.A.;1;Affoltern;105;Knonaueramt;12309
+01.01.2013;161;Zollikon;7;Horgen;107;Pfannenstiel;12319
+01.01.2010;138;Richterswil;6;Hinwil;106;Zimmerberg;12336
+01.01.2020;118;Rüti;5;Dietikon;108;Zürcher Oberland;12485
+01.01.2014;161;Zollikon;7;Horgen;107;Pfannenstiel;12517
+01.01.2010;156;Meilen;7;Horgen;107;Pfannenstiel;12539
+01.01.2011;138;Richterswil;6;Hinwil;106;Zimmerberg;12574
+01.01.2011;156;Meilen;7;Horgen;107;Pfannenstiel;12685
+01.01.2015;161;Zollikon;7;Horgen;107;Pfannenstiel;12744
+01.01.2012;156;Meilen;7;Horgen;107;Pfannenstiel;12777
+01.01.2016;161;Zollikon;7;Horgen;107;Pfannenstiel;12779
+01.01.2012;138;Richterswil;6;Hinwil;106;Zimmerberg;12825
+01.01.2017;161;Zollikon;7;Horgen;107;Pfannenstiel;12961
+01.01.2018;161;Zollikon;7;Horgen;107;Pfannenstiel;12996
+01.01.2013;138;Richterswil;6;Hinwil;106;Zimmerberg;12999
+01.01.2014;138;Richterswil;6;Hinwil;106;Zimmerberg;13008
+01.01.2019;161;Zollikon;7;Horgen;107;Pfannenstiel;13039
+01.01.2013;156;Meilen;7;Horgen;107;Pfannenstiel;13046
+01.01.2015;138;Richterswil;6;Hinwil;106;Zimmerberg;13177
+01.01.2014;156;Meilen;7;Horgen;107;Pfannenstiel;13209
+01.01.2020;161;Zollikon;7;Horgen;107;Pfannenstiel;13293
+01.01.2016;138;Richterswil;6;Hinwil;106;Zimmerberg;13304
+01.01.2017;138;Richterswil;6;Hinwil;106;Zimmerberg;13407
+01.01.2018;138;Richterswil;6;Hinwil;106;Zimmerberg;13467
+01.01.2012;154;Küsnacht;7;Horgen;107;Pfannenstiel;13485
+01.01.2010;154;Küsnacht;7;Horgen;107;Pfannenstiel;13499
+01.01.2011;154;Küsnacht;7;Horgen;107;Pfannenstiel;13506
+01.01.2015;156;Meilen;7;Horgen;107;Pfannenstiel;13515
+01.01.2019;138;Richterswil;6;Hinwil;106;Zimmerberg;13598
+01.01.2010;69;Wallisellen;3;Bülach;102;Glattal;13616
+01.01.2013;154;Küsnacht;7;Horgen;107;Pfannenstiel;13623
+01.01.2020;138;Richterswil;6;Hinwil;106;Zimmerberg;13647
+01.01.2016;156;Meilen;7;Horgen;107;Pfannenstiel;13701
+01.01.2015;154;Küsnacht;7;Horgen;107;Pfannenstiel;13796
+01.01.2014;154;Küsnacht;7;Horgen;107;Pfannenstiel;13820
+01.01.2011;158;Stäfa;7;Horgen;107;Pfannenstiel;13864
+01.01.2012;158;Stäfa;7;Horgen;107;Pfannenstiel;13866
+01.01.2013;158;Stäfa;7;Horgen;107;Pfannenstiel;13894
+01.01.2010;158;Stäfa;7;Horgen;107;Pfannenstiel;13923
+01.01.2014;158;Stäfa;7;Horgen;107;Pfannenstiel;13931
+01.01.2017;156;Meilen;7;Horgen;107;Pfannenstiel;13958
+01.01.2011;69;Wallisellen;3;Bülach;102;Glattal;14028
+01.01.2016;154;Küsnacht;7;Horgen;107;Pfannenstiel;14143
+01.01.2012;69;Wallisellen;3;Bülach;102;Glattal;14149
+01.01.2015;158;Stäfa;7;Horgen;107;Pfannenstiel;14152
+01.01.2018;156;Meilen;7;Horgen;107;Pfannenstiel;14190
+01.01.2016;158;Stäfa;7;Horgen;107;Pfannenstiel;14233
+01.01.2017;154;Küsnacht;7;Horgen;107;Pfannenstiel;14250
+01.01.2019;156;Meilen;7;Horgen;107;Pfannenstiel;14326
+01.01.2018;154;Küsnacht;7;Horgen;107;Pfannenstiel;14348
+01.01.2017;158;Stäfa;7;Horgen;107;Pfannenstiel;14389
+01.01.2018;158;Stäfa;7;Horgen;107;Pfannenstiel;14467
+01.01.2020;156;Meilen;7;Horgen;107;Pfannenstiel;14525
+01.01.2019;154;Küsnacht;7;Horgen;107;Pfannenstiel;14537
+01.01.2019;158;Stäfa;7;Horgen;107;Pfannenstiel;14708
+01.01.2020;158;Stäfa;7;Horgen;107;Pfannenstiel;14782
+01.01.2013;69;Wallisellen;3;Bülach;102;Glattal;14787
+01.01.2020;154;Küsnacht;7;Horgen;107;Pfannenstiel;14806
+01.01.2014;69;Wallisellen;3;Bülach;102;Glattal;15315
+01.01.2010;66;Opfikon;3;Bülach;102;Glattal;15582
+01.01.2015;69;Wallisellen;3;Bülach;102;Glattal;15603
+01.01.2016;69;Wallisellen;3;Bülach;102;Glattal;15849
+01.01.2017;69;Wallisellen;3;Bülach;102;Glattal;15855
+01.01.2011;66;Opfikon;3;Bülach;102;Glattal;15967
+01.01.2010;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16016
+01.01.2012;66;Opfikon;3;Bülach;102;Glattal;16045
+01.01.2010;247;Schlieren;11;Winterthur;104;Limmattal;16103
+01.01.2018;69;Wallisellen;3;Bülach;102;Glattal;16243
+01.01.2013;66;Opfikon;3;Bülach;102;Glattal;16338
+01.01.2011;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16379
+01.01.2010;131;Adliswil;6;Hinwil;106;Zimmerberg;16488
+01.01.2012;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16505
+01.01.2010;96;Regensdorf;4;Dielsdorf;103;Furttal;16518
+01.01.2013;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16656
+01.01.2014;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16676
+01.01.2011;247;Schlieren;11;Winterthur;104;Limmattal;16685
+01.01.2015;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16709
+01.01.2016;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16734
+01.01.2019;69;Wallisellen;3;Bülach;102;Glattal;16774
+01.01.2011;96;Regensdorf;4;Dielsdorf;103;Furttal;16824
+01.01.2017;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;16928
+01.01.2012;96;Regensdorf;4;Dielsdorf;103;Furttal;16951
+01.01.2018;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;17039
+01.01.2014;66;Opfikon;3;Bülach;102;Glattal;17085
+01.01.2013;96;Regensdorf;4;Dielsdorf;103;Furttal;17132
+01.01.2012;247;Schlieren;11;Winterthur;104;Limmattal;17170
+01.01.2020;69;Wallisellen;3;Bülach;102;Glattal;17171
+01.01.2010;141;Thalwil;6;Hinwil;106;Zimmerberg;17189
+01.01.2011;141;Thalwil;6;Hinwil;106;Zimmerberg;17256
+01.01.2012;141;Thalwil;6;Hinwil;106;Zimmerberg;17309
+01.01.2019;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;17316
+01.01.2020;296;Illnau-Effretikon;8;Meilen;109;Winterthur und Umgebung;17345
+01.01.2010;199;Volketswil;9;Pfäffikon;102;Glattal;17412
+01.01.2014;96;Regensdorf;4;Dielsdorf;103;Furttal;17443
+01.01.2011;131;Adliswil;6;Hinwil;106;Zimmerberg;17472
+01.01.2011;53;Bülach;3;Bülach;111;Zürcher Unterland;17472
+01.01.2010;53;Bülach;3;Bülach;111;Zürcher Unterland;17478
+01.01.2013;141;Thalwil;6;Hinwil;106;Zimmerberg;17496
+01.01.2011;199;Volketswil;9;Pfäffikon;102;Glattal;17572
+01.01.2013;247;Schlieren;11;Winterthur;104;Limmattal;17598
+01.01.2014;141;Thalwil;6;Hinwil;106;Zimmerberg;17610
+01.01.2016;141;Thalwil;6;Hinwil;106;Zimmerberg;17728
+01.01.2015;141;Thalwil;6;Hinwil;106;Zimmerberg;17729
+01.01.2012;199;Volketswil;9;Pfäffikon;102;Glattal;17743
+01.01.2017;141;Thalwil;6;Hinwil;106;Zimmerberg;17784
+01.01.2014;247;Schlieren;11;Winterthur;104;Limmattal;17873
+01.01.2012;53;Bülach;3;Bülach;111;Zürcher Unterland;17928
+01.01.2018;141;Thalwil;6;Hinwil;106;Zimmerberg;17964
+01.01.2010;62;Kloten;3;Bülach;102;Glattal;17995
+01.01.2012;131;Adliswil;6;Hinwil;106;Zimmerberg;17997
+01.01.2015;96;Regensdorf;4;Dielsdorf;103;Furttal;18010
+01.01.2013;199;Volketswil;9;Pfäffikon;102;Glattal;18040
+01.01.2016;96;Regensdorf;4;Dielsdorf;103;Furttal;18112
+01.01.2019;141;Thalwil;6;Hinwil;106;Zimmerberg;18121
+01.01.2011;62;Kloten;3;Bülach;102;Glattal;18183
+01.01.2013;131;Adliswil;6;Hinwil;106;Zimmerberg;18216
+01.01.2017;96;Regensdorf;4;Dielsdorf;103;Furttal;18253
+01.01.2020;141;Thalwil;6;Hinwil;106;Zimmerberg;18263
+01.01.2014;62;Kloten;3;Bülach;102;Glattal;18329
+01.01.2013;53;Bülach;3;Bülach;111;Zürcher Unterland;18348
+01.01.2013;62;Kloten;3;Bülach;102;Glattal;18354
+01.01.2012;62;Kloten;3;Bülach;102;Glattal;18373
+01.01.2014;131;Adliswil;6;Hinwil;106;Zimmerberg;18381
+01.01.2014;199;Volketswil;9;Pfäffikon;102;Glattal;18384
+01.01.2018;96;Regensdorf;4;Dielsdorf;103;Furttal;18411
+01.01.2015;62;Kloten;3;Bülach;102;Glattal;18412
+01.01.2015;247;Schlieren;11;Winterthur;104;Limmattal;18414
+01.01.2015;66;Opfikon;3;Bülach;102;Glattal;18482
+01.01.2015;199;Volketswil;9;Pfäffikon;102;Glattal;18489
+01.01.2019;96;Regensdorf;4;Dielsdorf;103;Furttal;18494
+01.01.2016;199;Volketswil;9;Pfäffikon;102;Glattal;18499
+01.01.2015;131;Adliswil;6;Hinwil;106;Zimmerberg;18551
+01.01.2020;96;Regensdorf;4;Dielsdorf;103;Furttal;18551
+01.01.2018;199;Volketswil;9;Pfäffikon;102;Glattal;18597
+01.01.2017;199;Volketswil;9;Pfäffikon;102;Glattal;18615
+01.01.2019;199;Volketswil;9;Pfäffikon;102;Glattal;18623
+01.01.2016;131;Adliswil;6;Hinwil;106;Zimmerberg;18651
+01.01.2017;247;Schlieren;11;Winterthur;104;Limmattal;18666
+01.01.2018;247;Schlieren;11;Winterthur;104;Limmattal;18670
+01.01.2018;131;Adliswil;6;Hinwil;106;Zimmerberg;18681
+01.01.2016;247;Schlieren;11;Winterthur;104;Limmattal;18681
+01.01.2017;131;Adliswil;6;Hinwil;106;Zimmerberg;18731
+01.01.2019;247;Schlieren;11;Winterthur;104;Limmattal;18754
+01.01.2014;53;Bülach;3;Bülach;111;Zürcher Unterland;18848
+01.01.2020;199;Volketswil;9;Pfäffikon;102;Glattal;18851
+01.01.2019;131;Adliswil;6;Hinwil;106;Zimmerberg;18869
+01.01.2020;131;Adliswil;6;Hinwil;106;Zimmerberg;19004
+01.01.2016;62;Kloten;3;Bülach;102;Glattal;19021
+01.01.2015;53;Bülach;3;Bülach;111;Zürcher Unterland;19342
+01.01.2017;62;Kloten;3;Bülach;102;Glattal;19362
+01.01.2016;66;Opfikon;3;Bülach;102;Glattal;19461
+01.01.2016;53;Bülach;3;Bülach;111;Zürcher Unterland;19503
+01.01.2018;62;Kloten;3;Bülach;102;Glattal;19647
+01.01.2017;53;Bülach;3;Bülach;111;Zürcher Unterland;19817
+01.01.2017;66;Opfikon;3;Bülach;102;Glattal;19864
+01.01.2020;247;Schlieren;11;Winterthur;104;Limmattal;19872
+01.01.2019;62;Kloten;3;Bülach;102;Glattal;20079
+01.01.2018;66;Opfikon;3;Bülach;102;Glattal;20252
+01.01.2020;62;Kloten;3;Bülach;102;Glattal;20365
+01.01.2018;53;Bülach;3;Bülach;111;Zürcher Unterland;20386
+01.01.2019;66;Opfikon;3;Bülach;102;Glattal;20889
+01.01.2020;66;Opfikon;3;Bülach;102;Glattal;20905
+01.01.2010;295;Horgen;6;Hinwil;106;Zimmerberg;21041
+01.01.2011;295;Horgen;6;Hinwil;106;Zimmerberg;21170
+01.01.2019;53;Bülach;3;Bülach;111;Zürcher Unterland;21336
+01.01.2012;295;Horgen;6;Hinwil;106;Zimmerberg;21386
+01.01.2013;295;Horgen;6;Hinwil;106;Zimmerberg;21698
+01.01.2020;53;Bülach;3;Bülach;111;Zürcher Unterland;21973
+01.01.2010;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;22081
+01.01.2014;295;Horgen;6;Hinwil;106;Zimmerberg;22136
+01.01.2015;295;Horgen;6;Hinwil;106;Zimmerberg;22309
+01.01.2016;295;Horgen;6;Hinwil;106;Zimmerberg;22375
+01.01.2017;295;Horgen;6;Hinwil;106;Zimmerberg;22411
+01.01.2018;295;Horgen;6;Hinwil;106;Zimmerberg;22612
+01.01.2011;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;22636
+01.01.2019;295;Horgen;6;Hinwil;106;Zimmerberg;22979
+01.01.2020;295;Horgen;6;Hinwil;106;Zimmerberg;23073
+01.01.2010;293;Wädenswil;6;Hinwil;106;Zimmerberg;23185
+01.01.2012;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;23254
+01.01.2010;243;Dietikon;11;Winterthur;104;Limmattal;23578
+01.01.2011;293;Wädenswil;6;Hinwil;106;Zimmerberg;23634
+01.01.2013;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;23659
+01.01.2012;293;Wädenswil;6;Hinwil;106;Zimmerberg;23698
+01.01.2013;293;Wädenswil;6;Hinwil;106;Zimmerberg;23722
+01.01.2014;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;23887
+01.01.2014;293;Wädenswil;6;Hinwil;106;Zimmerberg;23977
+01.01.2011;243;Dietikon;11;Winterthur;104;Limmattal;24114
+01.01.2018;293;Wädenswil;6;Hinwil;106;Zimmerberg;24321
+01.01.2015;293;Wädenswil;6;Hinwil;106;Zimmerberg;24330
+01.01.2015;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;24373
+01.01.2016;293;Wädenswil;6;Hinwil;106;Zimmerberg;24427
+01.01.2017;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;24452
+01.01.2017;293;Wädenswil;6;Hinwil;106;Zimmerberg;24455
+01.01.2016;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;24564
+01.01.2019;293;Wädenswil;6;Hinwil;106;Zimmerberg;24569
+01.01.2018;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;24764
+01.01.2012;243;Dietikon;11;Winterthur;104;Limmattal;24772
+01.01.2020;293;Wädenswil;6;Hinwil;106;Zimmerberg;24808
+01.01.2010;191;Dübendorf;9;Pfäffikon;102;Glattal;24882
+01.01.2019;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;24985
+01.01.2020;121;Wetzikon;5;Dietikon;108;Zürcher Oberland;25038
+01.01.2011;191;Dübendorf;9;Pfäffikon;102;Glattal;25124
+01.01.2012;191;Dübendorf;9;Pfäffikon;102;Glattal;25299
+01.01.2013;243;Dietikon;11;Winterthur;104;Limmattal;25326
+01.01.2013;191;Dübendorf;9;Pfäffikon;102;Glattal;25719
+01.01.2014;243;Dietikon;11;Winterthur;104;Limmattal;26178
+01.01.2014;191;Dübendorf;9;Pfäffikon;102;Glattal;26264
+01.01.2015;243;Dietikon;11;Winterthur;104;Limmattal;26633
+01.01.2015;191;Dübendorf;9;Pfäffikon;102;Glattal;26759
+01.01.2016;243;Dietikon;11;Winterthur;104;Limmattal;26929
+01.01.2017;243;Dietikon;11;Winterthur;104;Limmattal;26936
+01.01.2018;243;Dietikon;11;Winterthur;104;Limmattal;27146
+01.01.2016;191;Dübendorf;9;Pfäffikon;102;Glattal;27510
+01.01.2019;243;Dietikon;11;Winterthur;104;Limmattal;27661
+01.01.2017;191;Dübendorf;9;Pfäffikon;102;Glattal;28002
+01.01.2020;243;Dietikon;11;Winterthur;104;Limmattal;28028
+01.01.2018;191;Dübendorf;9;Pfäffikon;102;Glattal;28579
+01.01.2019;191;Dübendorf;9;Pfäffikon;102;Glattal;29228
+01.01.2020;191;Dübendorf;9;Pfäffikon;102;Glattal;29854
+01.01.2010;198;Uster;9;Pfäffikon;108;Zürcher Oberland;32285
+01.01.2011;198;Uster;9;Pfäffikon;108;Zürcher Oberland;32547
+01.01.2012;198;Uster;9;Pfäffikon;108;Zürcher Oberland;32710
+01.01.2013;198;Uster;9;Pfäffikon;108;Zürcher Oberland;33048
+01.01.2014;198;Uster;9;Pfäffikon;108;Zürcher Oberland;33383
+01.01.2015;198;Uster;9;Pfäffikon;108;Zürcher Oberland;33853
+01.01.2016;198;Uster;9;Pfäffikon;108;Zürcher Oberland;34216
+01.01.2017;198;Uster;9;Pfäffikon;108;Zürcher Oberland;34442
+01.01.2018;198;Uster;9;Pfäffikon;108;Zürcher Oberland;34647
+01.01.2019;198;Uster;9;Pfäffikon;108;Zürcher Oberland;34986
+01.01.2020;198;Uster;9;Pfäffikon;108;Zürcher Oberland;35295
+01.01.2010;230;Winterthur;10;Uster;109;Winterthur und Umgebung;101203
+01.01.2011;230;Winterthur;10;Uster;109;Winterthur und Umgebung;102966
+01.01.2012;230;Winterthur;10;Uster;109;Winterthur und Umgebung;104366
+01.01.2013;230;Winterthur;10;Uster;109;Winterthur und Umgebung;105461
+01.01.2014;230;Winterthur;10;Uster;109;Winterthur und Umgebung;106552
+01.01.2015;230;Winterthur;10;Uster;109;Winterthur und Umgebung;108044
+01.01.2016;230;Winterthur;10;Uster;109;Winterthur und Umgebung;109377
+01.01.2017;230;Winterthur;10;Uster;109;Winterthur und Umgebung;110570
+01.01.2018;230;Winterthur;10;Uster;109;Winterthur und Umgebung;111558
+01.01.2019;230;Winterthur;10;Uster;109;Winterthur und Umgebung;112911
+01.01.2020;230;Winterthur;10;Uster;109;Winterthur und Umgebung;114087
+01.01.2010;261;Zürich;12;Zürich;101;Stadt Zürich;372047
+01.01.2011;261;Zürich;12;Zürich;101;Stadt Zürich;376008
+01.01.2012;261;Zürich;12;Zürich;101;Stadt Zürich;379915
+01.01.2013;261;Zürich;12;Zürich;101;Stadt Zürich;383708
+01.01.2014;261;Zürich;12;Zürich;101;Stadt Zürich;390474
+01.01.2015;261;Zürich;12;Zürich;101;Stadt Zürich;396027
+01.01.2016;261;Zürich;12;Zürich;101;Stadt Zürich;401144
+01.01.2017;261;Zürich;12;Zürich;101;Stadt Zürich;407447
+01.01.2018;261;Zürich;12;Zürich;101;Stadt Zürich;413912
+01.01.2019;261;Zürich;12;Zürich;101;Stadt Zürich;419012
+01.01.2020;261;Zürich;12;Zürich;101;Stadt Zürich;420891
